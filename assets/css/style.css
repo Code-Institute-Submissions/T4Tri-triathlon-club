@@ -137,6 +137,10 @@ p {
           font-weight: 800;
       }
 
+      .join-us {
+          display: none;
+      }
+
 
    /* ===================
       2.3 about section
@@ -360,14 +364,31 @@ p {
         font-size: 1.2rem;
     }
 
+   }
 
 /* ====================
    3.1 >=992px (large) 
    ==================== */
 
+   @media (min-width: 992px) {
+
    .hero-text {
     height: 5rem;
     width: 15rem;
     font-size: 200%;
-
    }
+
+   .join-us {
+       display: flex;
+       justify-content: center;
+       width: 5rem;
+       background-color: #8C00B3;
+       color: #FFFDDF;
+       padding: 15px;
+       border-radius: 5px;
+       margin: 2rem auto;
+       cursor: pointer;
+   }
+
+   
+}
