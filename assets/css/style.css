@@ -39,3 +39,18 @@ p {
 }
    
  
+
+/* ===========================
+   2.     MAIN STYLING
+   =========================== */
+
+   /* ================
+   2.2 home section
+   ================ */
+
+   #home {
+       height: 60vh;
+       width: 100%;
+       background-color: #92579F;
+       overflow: hidden;
+   }
