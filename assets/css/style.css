@@ -201,4 +201,11 @@ p {
         padding: 1rem;
       }
 
+    .events-card {
+        color: #121A18;
+        background-color: #8C00B3;
+        width: 80%;
+        height: 20%;
+    }
+
     
