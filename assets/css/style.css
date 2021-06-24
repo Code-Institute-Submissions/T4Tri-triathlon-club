@@ -79,6 +79,11 @@ p {
         justify-content: center;
         border-radius: 2px;
         padding: 0;
+        opacity: 0;
+        animation: hero-text;
+        animation-duration: 7s;
+        transition-timing-function: ease-in;
+        animation-fill-mode: forwards;
    }
 
 
@@ -92,3 +97,12 @@ p {
         transform: scale(1.1);
         }
     }
+
+    @keyframes hero-text {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+      }
