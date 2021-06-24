@@ -19,9 +19,7 @@
         font-family: 'Montserrat', sans-serif;
    }
 
-   /* ==============
-   1.2 typography
-   ============== */
+/* 1.2 typography */
 
 h1, h2, h3, h4 {
     font-family: 'Roboto Slab', serif;
@@ -41,13 +39,9 @@ p {
    
  
 
-/* ===========================
-   2.     MAIN STYLING
-   =========================== */
+/* 2. MAIN STYLING */
 
-   /* ================
-   2.2 home section
-   ================ */
+/* 2.2 home section */
 
    #top-nav {
     position: fixed;
@@ -137,9 +131,8 @@ p {
     top: 56px;
     z-index: 1000;
 }
-   /* ================
-   2.2 home section
-   ================ */
+
+/* 2.2 home section */
 
    #home {
        height: 60vh;
@@ -201,9 +194,7 @@ p {
       }
 
 
-   /* ===================
-      2.2 welcome section
-      =================== */
+   /* 2.2 welcome section */
 
       #welcome {
           height: 300px;
@@ -233,9 +224,7 @@ p {
       }
 
 
-   /* ===================
-      2.3 about section
-      =================== */
+   /* 2.3 about section */
 
       #about   {
           max-width: 100%;
@@ -283,9 +272,7 @@ p {
     }
 
 
-   /* ==================
-      2.4 events section
-      ================== */
+   /* 2.4 events section */
 
       #events {
         max-width: 100%;
@@ -344,9 +331,7 @@ p {
     }
 
 
-   /* ===================
-      2.5 contact section
-      =================== */
+   /* 2.5 contact section */
 
     #contact {
         max-width: 100%;
@@ -392,9 +377,7 @@ p {
     }
 
 
-   /* ===================
-      2.6 footer section
-      =================== */
+   /* 2.6 footer section */
 
       #footer {
         max-width: 100%;
@@ -426,13 +409,9 @@ p {
     }
     
 
-/* ===============================
-   3.       MEDIA QUERIES
-   =============================== */
+/* 3. MEDIA QUERIES */
 
-/* ====================
-   3.1 >=768px (Tablet) 
-   ==================== */
+/* 3.1 >=768px (Tablet) */
 
    @media (min-width: 768px) {
 
@@ -473,9 +452,7 @@ p {
 
    }
 
-/* ====================
-   3.1 >=992px (large) 
-   ==================== */
+/* 3.1 >=992px (large) */
 
    @media (min-width: 992px) {
 
