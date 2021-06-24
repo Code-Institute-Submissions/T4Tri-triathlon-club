@@ -274,4 +274,17 @@ p {
         justify-content: space-evenly;
     }
 
+    #message, #contact-form input {
+        border-radius: 5px;
+        padding: 0.5rem;
+        font-family: 'Montserrat', sans-serif;
+        border: #8C00B3 1px solid;
+        margin: 0.5rem auto;
+        width: 90%;
+    }
+
+    #contact-form input {
+       
+    }
+
     
