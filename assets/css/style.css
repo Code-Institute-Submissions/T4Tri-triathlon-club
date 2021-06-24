@@ -355,9 +355,19 @@ p {
     #footer a {
         font-size: 120%;
     }
-    
+
     #footer h4 {
         font-size: 1.2rem;
     }
+
+
+/* ====================
+   3.1 >=992px (large) 
+   ==================== */
+
+   .hero-text {
+    height: 5rem;
+    width: 15rem;
+    font-size: 200%;
 
    }
