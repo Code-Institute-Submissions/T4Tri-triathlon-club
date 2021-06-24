@@ -137,7 +137,15 @@ The wireframes are below:
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 ## Tools
-
+* [Gitpod](https://www.gitpod.io/ "Gitpod")
+* [Balsamic](https://balsamiq.com/wireframes/ "Balsamic")
+* [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML")
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS")
+* [Bootstrap](https://getbootstrap.com "Bootstrap")
+* [Colourmind](https://colormind.io/ "colourmind")
+* [Font Awesome library](https://fontawesome.com/ "Font Awesome")
+* [Google Fonts](https://fonts.google.com/ "Google Fonts")
+* [Unsplash](https://unsplash.com/ "Unsplash")
 # Testing
 
 ## Examples
