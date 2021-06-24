@@ -87,7 +87,24 @@ I will explain the uses of the varius colours below, starting from top to bottom
  * #121A18 - This colour will be used as a text colour and also the navigation and footer background colour.
 
 ### Structure
+I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are from [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap").
 
+| Screen Size | Breakpoint |
+| ----------- | ---------- |
+| x-small     | <576px     |
+| small       | => 576px   |
+| medium      | => 768px   |
+| large       | => 992 px  |
+| x-large     | => 1200 px |
+# Wireframes
+I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframes for my website. I initially created the mobile version and then the wireframes and then scalled it up for both tablet and desktop. Because a requirement is to give little but quality information to the user to make them want to engage with the club, a one page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
+
+The wireframes are below:
+
+
+### [Desktop Wireframe](wireframes/T4Tri_desktop.png "Desktop wireframe")
+### [Tablet Wireframe](wireframes/T4Tri_tablet.png "Tablet wireframe")
+### [Phone Wireframe](wireframes/T4Tri_phone.png "Phone wireframe")
 # Wireframes
 
 # Features
