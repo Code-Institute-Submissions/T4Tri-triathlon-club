@@ -159,4 +159,9 @@ p {
           margin: 0.5rem auto;
       }
 
-
+      .about-icon {
+        font-size: 4rem;
+        color: #FFFDDF;
+        padding: 1rem;
+        border-radius: 50%;
+    }
