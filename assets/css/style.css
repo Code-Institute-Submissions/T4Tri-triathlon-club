@@ -173,6 +173,7 @@ p {
     .about-card h3 {
         font-size: 2rem;
         color: #FFFDDF;
+        margin: 0.5rem auto;
     }
 
     .about-card p {
