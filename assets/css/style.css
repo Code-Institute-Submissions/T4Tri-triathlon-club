@@ -54,3 +54,11 @@ p {
        background-color: #92579F;
        overflow: hidden;
    }
+
+   .hero-image {
+        background: url(../images/hero.jpg) no-repeat center center;
+        background-size: cover;
+        height: 60vh;
+        width: 100%;
+   }
+
