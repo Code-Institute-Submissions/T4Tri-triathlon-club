@@ -235,4 +235,13 @@ p {
         font-weight: 800;
         cursor: pointer;
     }
+
+    .events-icon {
+        align-self: flex-start;
+        margin: 0.5rem;
+        font-size: 1rem;
+        background-color: #FFFDDF;
+        color: #8C00B3;
+        padding: 0.5rem;
+    }
     
