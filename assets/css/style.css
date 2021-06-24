@@ -390,5 +390,11 @@ p {
        cursor: pointer;
    }
 
-   
+   .join-us:hover {
+       box-shadow: 2px 2px #8C00B3;
+       background-color: #FFFDDF;
+       border: 1px solid #8E689B;
+       transition: 0.2s ease-in;
+       color: #8C00B3;
+   }
 }
