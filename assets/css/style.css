@@ -74,6 +74,69 @@ p {
     text-shadow: 5px 5px 10px #8C00B3;
 }
 
+.logo {
+    margin-left: 25px;
+}
+
+.menu-toggle {
+    margin-right: 25px;
+}
+
+.main-menu {
+    position: absolute;
+    display: none;
+    left: -200px;
+    top: 40px;
+    height: 100%;
+    width: 100%;
+    z-index: 999;
+}
+
+.main-menu ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    height: 90vh;
+    width: 100vw;
+    background-color: rgba(18, 26, 24, 0.9);
+    top: 35px;
+    border-radius: 0 0 15px 15px;
+}
+
+.main-menu a {
+    display: block;
+    padding: 1em;
+    color: #FFFDDF;
+    text-decoration: none;
+    border-bottom: 1px solid #8C00B3;
+}
+
+
+.main-menu a:hover {
+    background: #8C00B3;
+    border-radius: 5px;
+}
+
+.main-menu {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.main-menu:target,
+.main-menu[aria-expanded="true"] {
+    display: block;
+    left: 0;  
+}
+
+.main-menu:target ul,
+.main-menu[aria-expanded="true"] ul {
+    position: relative;
+    top: 56px;
+    z-index: 1000;
+}
    /* ================
    2.2 home section
    ================ */
