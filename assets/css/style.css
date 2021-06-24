@@ -383,11 +383,13 @@ p {
        justify-content: center;
        width: 5rem;
        background-color: #8C00B3;
+       border: 1px solid #8C00B3;
        color: #FFFDDF;
        padding: 15px;
        border-radius: 5px;
        margin: 2rem auto;
        cursor: pointer;
+       text-transform: uppercase;
    }
 
    .join-us:hover {
