@@ -60,5 +60,19 @@ p {
         background-size: cover;
         height: 60vh;
         width: 100%;
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
    }
 
+   
+    /* 2.2.1 Hero Animation */
+
+    @keyframes hero-zoom {
+        from {
+        transform: scale(1);
+        }
+        to {
+        transform: scale(1.1);
+        }
+    }
