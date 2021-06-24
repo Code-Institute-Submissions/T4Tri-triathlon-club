@@ -68,6 +68,12 @@ p {
     border-bottom: 1px solid #FFFDDF;
 }
 
+.menu-toggle, .logo {
+    line-height: 55px;
+    color: #FFFDDF;
+    text-shadow: 5px 5px 10px #8C00B3;
+}
+
    /* ================
    2.2 home section
    ================ */
