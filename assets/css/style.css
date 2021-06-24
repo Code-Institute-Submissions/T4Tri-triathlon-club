@@ -318,4 +318,8 @@ p {
         justify-content: space-evenly;
         width: 100%;
     }
+
+    #footer h4 {
+        font-size: 1rem;
+    }
     
