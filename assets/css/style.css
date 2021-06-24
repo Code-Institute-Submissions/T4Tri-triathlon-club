@@ -24,9 +24,11 @@
    1.2 typography
    ============== */
 
-h1, h2, h3, h4, a {
+h1, h2, h3, h4 {
     font-family: 'Roboto Slab', serif;
     letter-spacing: 1px;
+    font-size: 2.5rem;
+    color:#121A18;
 }
 
 a {
@@ -152,11 +154,6 @@ p {
           padding: 1rem;
       }
 
-      #about h2 {
-          font-size: 2.5rem;
-          color:#121A18;
-      }
-
       .about-card {
           height: 20%;
           width: 80%;
@@ -204,11 +201,6 @@ p {
         align-items: center;
         text-align: center;
         padding: 1rem;
-      }
-
-      #events h2 {
-          font-size: 2.5rem;
-          color:#121A18;
       }
 
     .events-card {
