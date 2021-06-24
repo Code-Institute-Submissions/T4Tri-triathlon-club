@@ -55,7 +55,11 @@ This website gives some information about the club, basic information about trat
 * Simple methods of contacting the club.
 * Visually inviting so users don't leave.
 ### Expectations
-
+* I expect to know if a form has been submitted properly and if items are not filled in, to be prompted.
+* I expect all links to social media sites to be opened in a new tab.
+* I expect all navigation links to work correctly.
+* I expect screen size not to effect the quality of the website.
+* I expect all information to be correct and accurate.
 ## Design Choices
 
 ### Fonts
