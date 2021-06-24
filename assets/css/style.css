@@ -19,5 +19,23 @@
    body {
         font-family: 'Montserrat', sans-serif;
    }
+
+   /* ==============
+   1.2 typography
+   ============== */
+
+h1, h2, h3, h4, a {
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 1px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 1.6;
+    letter-spacing: 0.2px;
+}
    
  
