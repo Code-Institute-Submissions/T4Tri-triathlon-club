@@ -37,7 +37,13 @@ This website gives some information about the club, basic information about trat
 * Easily found contact details.
 * Form to directly contact the club.
 ## User Stories
-
+* As a user, I want to know that the club is well established.
+* As a user, I want the website to give me information about what is involved in trathalon.
+* As a user, I want to be able to easily contact the club.
+* As a user, I want to be able to make contact with the club via several different methods, i.e. social media.
+* As a user, I want to be able to easily navigate through the website.
+* As a user, I want to know where the club is based.
+* As a user, I want to know what events are taking place.
 ## Site owners Goals
 
 ### Requirements
