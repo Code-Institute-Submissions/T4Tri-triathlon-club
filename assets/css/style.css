@@ -180,6 +180,6 @@ p {
         background-color: #FFFDDF;
         height: 150px;
         display: flex;
-        align-items: flex-end;
+        align-items: center;
         padding-bottom: 0.25rem;
     }
