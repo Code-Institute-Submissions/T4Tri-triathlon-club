@@ -65,7 +65,23 @@ p {
         animation-fill-mode: forwards;
    }
 
-   
+   .hero-text {
+        height: 4rem;
+        width: 8rem;
+        position: absolute;
+        bottom: 15%;
+        left: 10%;
+        background-color: #8C00B3;
+        color: #FFFDDF;
+        font-size: 150%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 2px;
+        padding: 0;
+   }
+
+
     /* 2.2.1 Hero Animation */
 
     @keyframes hero-zoom {
