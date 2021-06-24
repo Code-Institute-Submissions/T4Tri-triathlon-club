@@ -134,7 +134,8 @@ The wireframes are below:
 * [CSS](https://en.wikipedia.org/wiki/CSS "CSS")
 
 ## Libraries & Framework
-
+* [Google Fonts](https://fonts.google.com/ "Google Fonts")
+* [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 ## Tools
 
 # Testing
