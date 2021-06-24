@@ -59,6 +59,14 @@ p {
     height: 75px;
 }
 
+.nav-bar {
+    background-color: #121A18;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #FFFDDF;
+}
 
    /* ================
    2.2 home section
