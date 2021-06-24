@@ -31,7 +31,11 @@ This website gives some information about the club, basic information about trat
 # UX
 
 ## User Goals
-
+* Visually appealing, including images.
+* Easily navigated around.
+* Quality and valuable content.
+* Easily found contact details.
+* Form to directly contact the club.
 ## User Stories
 
 ## Site owners Goals
