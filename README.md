@@ -49,7 +49,11 @@ This website gives some information about the club, basic information about trat
 * Increase the number of members.
 * Increase rankings on search engines.
 ### Requirements
-
+* Easy to navigate on varius screen sizes.
+* Clear information on the services provided.
+* Keep the user interested with small bits of information to make them want to engage with the club.
+* Simple methods of contacting the club.
+* Visually inviting so users don't leave.
 ### Expectations
 
 ## Design Choices
