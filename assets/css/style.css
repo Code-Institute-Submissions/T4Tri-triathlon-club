@@ -125,5 +125,16 @@ p {
           padding: 1rem;
       }
 
+      #welcome p {
+        margin: 1.5rem auto;
+      }
+
+      #welcome span {
+          color: #8C00B3;
+          font-size: 110%;
+          font-weight: 800;
+      }
+
+
 
 
