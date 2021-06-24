@@ -45,7 +45,9 @@ This website gives some information about the club, basic information about trat
 * As a user, I want to know where the club is based.
 * As a user, I want to know what events are taking place.
 ## Site owners Goals
-
+* Promote the club.
+* Increase the number of members.
+* Increase rankings on search engines.
 ### Requirements
 
 ### Expectations
