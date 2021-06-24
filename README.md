@@ -70,6 +70,21 @@ In order to move away from the basic fonts available, I have used
 I will used some icons for my website from the [Font Awesome library](https://fontawesome.com/ "Font Awesome"). These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a hamburger for navigational links on smaller devices. All icons used will be styled and in keeping with the appearance of the website.
 
 ### Colours
+I have used [Colourmind](https://colormind.io/ "colourmind") to help in the selection of my colour scheme. I selected the initial colour that I wanted the reast of my pallet to fit with and then used the generator to create the pallet, it can be seen [here](wireframes/colour_pallet.JPG "Generated Colour Pallet"). However when I tested the contrast of the colours in [WebAIM](https://webaim.org/resources/contrastchecker/ "WebAIM"), the contrast ratio from the text colour to the background colour was not good enough and failed tests, they can be seen [here](wireframes/contrast-checker.JPG "Failed tests"). After adjusting the colours manually, I gained a pallet that still gave great impact and had great contrast, these are the results for the contrast checker are [here](wireframes/contrast-checker-adjusted.JPG "Adjusted Colour Pallet").
+
+
+I will explain the uses of the varius colours below, starting from top to bottom.
+
+
+![Colour Pallet](wireframes/new-colour-pallet.JPG)
+
+
+ 
+ * #8C00B3 - This colour will be used as a background colour for sections and as a text colour.
+ * #FFFDDF - This colour will be used as a background colour for sections and as a text colour.
+ * #8E689B - This colour will be used on the contact form for added styling.
+ * #92579F - This colour will be used as a backgroung behind any images used.
+ * #121A18 - This colour will be used as a text colour and also the navigation and footer background colour.
 
 ### Structure
 
