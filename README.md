@@ -130,6 +130,8 @@ The wireframes are below:
 # Technologies used
 
 ## Languages
+* [HTML](https://en.wikipedia.org/wiki/HTML "HTML")
+* [CSS](https://en.wikipedia.org/wiki/CSS "CSS")
 
 ## Libraries & Framework
 
