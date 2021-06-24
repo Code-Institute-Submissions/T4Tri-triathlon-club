@@ -183,7 +183,6 @@ p {
         height: 150px;
         display: flex;
         align-items: center;
-        padding-bottom: 0.25rem;
     }
 
 
@@ -337,4 +336,16 @@ p {
     #welcome p {
         max-width: 70%;
     }
+
+    .about-card {
+        max-width: 70%;
+    }
+
+    .about-card p {
+        width: 100%;
+        text-align: center;
+    }
+
+
+
    }
