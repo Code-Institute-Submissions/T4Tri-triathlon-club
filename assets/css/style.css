@@ -152,3 +152,8 @@ p {
           padding: 1rem;
       }
 
+      .about-card {
+          height: 20%;
+          width: 80%;
+      }
+
