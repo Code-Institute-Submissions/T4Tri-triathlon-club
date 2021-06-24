@@ -157,6 +157,10 @@ p {
           width: 80%;
           border: 2px solid #FFFDDF;
           margin: 0.5rem auto;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: space-around;
       }
 
       .about-icon {
@@ -170,3 +174,4 @@ p {
         font-size: 2rem;
         color: #FFFDDF;
     }
+
