@@ -165,3 +165,8 @@ p {
         padding: 1rem;
         border-radius: 50%;
     }
+
+    .about-card h3 {
+        font-size: 2rem;
+        color: #FFFDDF;
+    }
