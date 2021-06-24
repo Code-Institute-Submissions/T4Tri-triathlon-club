@@ -1,22 +1,21 @@
-/* ===========================
-   1.       GLOBAL
-   =========================== */
+/* 1. GLOBAL */
 
-
-/* =================
-   1.1 global styles
-   ================= */
-
+/* 1.1 global styles */
 
    @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Slab:wght@300&display=swap');
 
+   html {
+       font-size: 62.5%;
+   }
+
    * {
-       margin: 0;
-       padding: 0;
-       border: 0;
+        margin: 0;
+        padding: 0;
+        border: 0;
    }
    
    body {
+        font-size: 1.6rem;
         font-family: 'Montserrat', sans-serif;
    }
 
