@@ -155,3 +155,4 @@ The wireframes are below:
 # Deployment
 
 # Credits
+* [Mark Caron](https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793 "Marc Caron")
