@@ -204,7 +204,7 @@ p {
    /* 2.2 welcome section */
 
       #welcome {
-          height: 300px;
+          height: 30rem;
           max-width: 100%;
           background-color: var(--white);
           color: #121A18;
@@ -227,8 +227,18 @@ p {
       }
 
       .join-us {
-          display: none;
-      }
+        display: flex;
+        justify-content: center;
+        width: 5rem;
+        background-color: var(--dark-purple);
+        border: 1px solid var(--dark-purple);
+        color: var(--white);
+        padding: 15px;
+        border-radius: 5px;
+        margin: 2rem auto;
+        cursor: pointer;
+        text-transform: uppercase;
+    }
 
 
    /* 2.3 about section */
@@ -520,20 +530,6 @@ p {
     height: 5rem;
     width: 15rem;
     font-size: 200%;
-   }
-
-   .join-us {
-       display: flex;
-       justify-content: center;
-       width: 5rem;
-       background-color: var(--dark-purple);
-       border: 1px solid var(--dark-purple);
-       color: var(--white);
-       padding: 15px;
-       border-radius: 5px;
-       margin: 2rem auto;
-       cursor: pointer;
-       text-transform: uppercase;
    }
 
    .join-us:hover {
