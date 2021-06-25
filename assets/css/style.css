@@ -204,7 +204,7 @@ p {
    /* 2.2 welcome section */
 
       #welcome {
-          height: 30rem;
+          height: 33rem;
           max-width: 100%;
           background-color: var(--white);
           color: #121A18;
@@ -222,19 +222,19 @@ p {
 
       #welcome span {
           color: var(--dark-purple);
-          font-size: 110%;
+          font-size: 2rem;
           font-weight: 800;
       }
 
       .join-us {
         display: flex;
         justify-content: center;
-        width: 5rem;
+        width: 7rem;
         background-color: var(--dark-purple);
         border: 1px solid var(--dark-purple);
         color: var(--white);
-        padding: 15px;
-        border-radius: 5px;
+        padding: 1.5rem;
+        border-radius: 0.5rem;
         margin: 2rem auto;
         cursor: pointer;
         text-transform: uppercase;
