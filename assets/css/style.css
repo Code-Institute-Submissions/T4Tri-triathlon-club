@@ -55,8 +55,8 @@ p {
     z-index: 2000;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 75px;
+    width: 100vw;
+    height: 7.5rem;
 }
 
 .nav-bar {
@@ -244,8 +244,8 @@ p {
    /* 2.3 about section */
 
       #about   {
-          max-width: 100%;
-          height: 1200px;
+          width: 100vw;
+          height: 120rem;
           background-color: var(--dark-purple);
           display: flex;
           flex-direction: column;
@@ -293,7 +293,7 @@ p {
 
       #events {
         max-width: 100%;
-        height: 1050px;
+        height: 105rem;
         background-color: var(--white);
         display: flex;
         flex-direction: column;
@@ -352,7 +352,7 @@ p {
 
     #contact {
         max-width: 100%;
-        height: 750px;
+        height: 75rem;
         background-color: var(--dark-purple);
         display: flex;
         flex-direction: column;
@@ -398,7 +398,7 @@ p {
 
       #footer {
         max-width: 100%;
-        height: 75px;
+        height: 7.5rem;
         background-color: #121A18;
         display: flex;
         flex-direction: column;
