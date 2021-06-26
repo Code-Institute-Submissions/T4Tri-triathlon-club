@@ -469,7 +469,16 @@ z-index: 1000;
 
 /* 3.1.4 events section */
 
-
+.events-icon {
+    font-size: 4rem;
+    position: absolute;
+    margin-left: 5rem;
+    width: 8rem;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 /* 3.1.5 footer section */
 
