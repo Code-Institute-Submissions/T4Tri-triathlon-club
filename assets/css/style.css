@@ -70,7 +70,7 @@ width: 100%;
 }
 
 .menu-toggle, .logo {
-line-height: 55px;
+line-height: 5.5rem;
 color: var(--white);
 text-shadow: 5px 5px 10px var(--dark-purple);
 }
@@ -89,8 +89,8 @@ font-size: 3rem;
 .main-menu {
 position: absolute;
 display: none;
-left: -200px;
-top: 40px;
+left: -20rem;
+top: 4rem;
 height: 100%;
 width: 100%;
 z-index: 999;
@@ -105,8 +105,7 @@ list-style: none;
 height: 90vh;
 width: 100vw;
 background-color: var(--light-purple);
-top: 35px;
-border-radius: 0 0 15px 15px;
+top: 3.5rem;
 }
 
 .main-menu a {
@@ -121,7 +120,6 @@ text-decoration: none;
 
 .main-menu a:hover {
 background: var(--dark-purple);
-border-radius: 5px;
 }
 
 .main-menu {
@@ -139,7 +137,7 @@ left: 0;
 .main-menu:target ul,
 .main-menu[aria-expanded="true"] ul {
 position: relative;
-top: 56px;
+top: 5.6rem;
 z-index: 1000;
 }
 
