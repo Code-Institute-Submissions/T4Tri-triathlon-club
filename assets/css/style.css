@@ -452,11 +452,11 @@ z-index: 1000;
 
 /* 3.1.2 welcome section */
 #welcome p {
-    max-width: 70%;
+    margin: 3rem 7rem;
 }
 
 .about-card {
-    max-width: 70%;
+    width: 70%;
 }
 
 .about-card p {
