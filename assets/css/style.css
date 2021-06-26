@@ -100,7 +100,7 @@ p {
     list-style: none;
     height: 90vh;
     width: 100vw;
-    background-color: rgba(18, 26, 24, 0.9);
+    background-color: var(--light-purple);
     top: 35px;
     border-radius: 0 0 15px 15px;
 }
