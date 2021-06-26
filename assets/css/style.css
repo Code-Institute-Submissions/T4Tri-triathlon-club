@@ -303,7 +303,7 @@ p {
         justify-content: space-evenly;
         align-items: center;
         text-align: center;
-        padding: 5rem 1rem;
+        padding: 1rem;
       }
 
     .events-card {
@@ -363,7 +363,7 @@ p {
         justify-content: space-evenly;
         align-items: center;
         text-align: center;
-        padding: 5rem 1rem;
+        padding: 1rem;
     }
 
     #contact-form {
