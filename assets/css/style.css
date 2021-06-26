@@ -282,7 +282,7 @@ z-index: 1000;
 
 .about-card p {
     background-color: var(--white);
-    height: 150px;
+    height: 15rem;
     display: flex;
     align-items: center;
     width: 100%;
