@@ -327,8 +327,8 @@ z-index: 1000;
 .events-card a {
     text-decoration: none;
     background-color: var(--white);
-    color: var(--black);
-    border: 1px solid var(--black);
+    color: var(--light-purple);
+    border: 3px solid var(--black);
     height: 2.5rem;
     width: 12rem;
     margin: auto;
