@@ -34,7 +34,8 @@ h1, h2, h3, h4 {
     font-family: 'Roboto Slab', serif;
     letter-spacing: 1px;
     font-size: 2.5rem;
-    color:#121A18;
+    color:var(--black);
+    font-weight: 800;
 }
 
 p {
