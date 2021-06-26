@@ -38,7 +38,7 @@ h1, h2, h3, h4 {
 }
 
 a {
-    text-decoration: none;
+    
 }
 
 p {
@@ -114,6 +114,7 @@ p {
     color: var(--white);
     text-decoration: none;
     border-bottom: 1px solid var(--dark-purple);
+    text-decoration: none;
 }
 
 
@@ -338,6 +339,7 @@ p {
         justify-content: center;
         font-weight: 800;
         cursor: pointer;
+        text-decoration: none;
     }
 
     .events-icon {
@@ -420,6 +422,7 @@ p {
 
     #social-links a {
         color: var(--white);
+        text-decoration: none;
     }
 
     #footer h4 {
