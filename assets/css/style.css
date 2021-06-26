@@ -42,7 +42,9 @@ line-height: 1.6;
 letter-spacing: 0.2px;
 }
 
-
+.section-header {
+    margin-top: 5rem;
+}
 
 /* 2. MAIN STYLING */
 
