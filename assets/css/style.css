@@ -75,11 +75,8 @@ color: var(--white);
 text-shadow: 5px 5px 10px var(--dark-purple);
 }
 
-.logo {
-margin-left: 1.5rem;
-}
-
 .logo h1 {
+    margin-left: 1.5rem;
     font-size: 3rem;
     color: var(--white);
 }
@@ -447,11 +444,13 @@ z-index: 1000;
 /* 3.1.1 Navigation */
 
 .menu-toggle {
-    font-size: 2rem;
+    font-size: 4rem;
+    margin-right: 4rem;
 }
 
-.logo {
-    font-size: 2rem;
+.logo h1 {
+    font-size: 4rem;
+    margin-left: 4rem;
 }
 
 /* 3.1.2 welcome section */
