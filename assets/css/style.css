@@ -477,7 +477,7 @@ z-index: 1000;
 .events-icon {
     font-size: 4rem;
     position: absolute;
-    margin-left: 5rem;
+    left: 14rem;
     width: 8rem;
     height: 8rem;
     display: flex;
