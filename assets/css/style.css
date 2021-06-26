@@ -485,6 +485,15 @@ z-index: 1000;
     justify-content: center;
 }
 
+.events-card a {
+    height: 8rem;
+    width: 8rem;
+    border-radius: 50%;
+    font-size: 4rem;
+    position: absolute;
+    right: 14rem;
+}
+
 /* 3.1.5 footer section */
 
 #footer a {
