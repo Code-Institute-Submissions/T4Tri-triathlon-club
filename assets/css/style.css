@@ -538,8 +538,8 @@ z-index: 1000;
     border-radius: 0;
 }
 
-.main-menu ul a:focus:hover {
-    padding: 1em;
+.main-menu ul a:focus {
+    color: var(--light-purple);
 }
 
 .hero-text {
