@@ -5,7 +5,9 @@
    @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Slab:wght@300&display=swap');
     :root {   
         --dark-purple: #8C00B3;
+        --light-purple: #92579F;
         --white: #FFFDDF;
+        --black: #121A18;
     }
    html {
        font-size: 62.5%;
@@ -60,7 +62,7 @@ p {
 }
 
 .nav-bar {
-    background-color: #121A18;
+    background-color: var(--black);
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
@@ -144,7 +146,7 @@ p {
    #home {
        height: 60vh;
        width: 100%;
-       background-color: #92579F;
+       background-color: var(--light-purple);
        overflow: hidden;
    }
 
@@ -207,7 +209,7 @@ p {
           height: 33rem;
           max-width: 100%;
           background-color: var(--white);
-          color: #121A18;
+          color: var(--black);
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -327,7 +329,7 @@ p {
     .events-card a {
         text-decoration: none;
         background-color: var(--white);
-        color: #92579F;
+        color: var(--light-purple);
         height: 2.5rem;
         width: 200px;
         margin: auto;
@@ -363,7 +365,7 @@ p {
     }
 
     #contact-form {
-        background-color: #8E689B;
+        background-color:var(--light-purple);
         padding: 1rem;
         width: 80%;
         height: 300px;
@@ -383,7 +385,7 @@ p {
 
     #submit {
         height: 3rem;
-        background-color: #121A18;
+        background-color: var(--black);
         color: var(--white);
         text-transform: uppercase;
     }
@@ -399,7 +401,7 @@ p {
       #footer {
         max-width: 100%;
         height: 7.5rem;
-        background-color: #121A18;
+        background-color: var(--black);
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -517,7 +519,7 @@ p {
 
     .main-menu a:hover {
         background: none;
-        border-top: 2px solid #92579F;
+        border-top: 2px solid var(--light-purple);
         border-radius: 0;
     }
 
@@ -535,7 +537,7 @@ p {
    .join-us:hover {
        box-shadow: 2px 2px var(--dark-purple);
        background-color: var(--white);
-       border: 1px solid #8E689B;
+       border: 1px solid var(--light-purple);
        transition: 0.2s ease-in;
        color: var(--dark-purple);
    }
