@@ -284,7 +284,7 @@ p {
         display: flex;
         align-items: center;
         width: 100%;
-        justify-content: center;
+        margin: 3rem 0 0 auto;
     }
 
 
