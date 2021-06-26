@@ -305,7 +305,6 @@ z-index: 1000;
   }
 
 .events-card {
-    color: #121A18;
     background-color: var(--dark-purple);
     width: 80%;
     height: 20%;
