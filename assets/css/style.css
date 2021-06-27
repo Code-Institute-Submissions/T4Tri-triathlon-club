@@ -375,6 +375,9 @@ z-index: 1000;
     align-items: center;
 }
 
+#events img {
+    display: none;
+}
 
 /* 2.5 contact section */
 
