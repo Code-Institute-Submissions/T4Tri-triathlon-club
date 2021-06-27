@@ -339,9 +339,9 @@ z-index: 1000;
     text-decoration: none;
     height: 5rem;
     width: 5rem;
-    border-radius: 50%;
     font-size: 3rem;
-    box-shadow: 0.5rem 0.5rem 1rem var(--light-purple) inset;
+    box-shadow: 2px 2px var(--black);
+    border: 1px solid var(--black);
 }
 
 .events-icon {
@@ -487,7 +487,6 @@ z-index: 1000;
 .events-card a {
     height: 8rem;
     width: 8rem;
-    border-radius: 50%;
     font-size: 4rem;
     position: absolute;
     right: 14rem;
