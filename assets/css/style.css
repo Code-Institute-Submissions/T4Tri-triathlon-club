@@ -682,5 +682,9 @@ z-index: 1000;
     right: 5rem;
 }
 
+.about-card {
+    width: 40%;
+}
+
 
 }
