@@ -652,7 +652,17 @@ z-index: 1000;
     font-size: 6rem;
 }
 
+/* 3.3.3 about section */
 
+#about {
+    position: relative;
+}
+
+.about-card-swim {
+    position: absolute;
+    top: 20rem;
+    left: 5rem;
+}
 
 
 }
