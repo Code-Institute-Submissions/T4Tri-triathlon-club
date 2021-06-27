@@ -406,13 +406,19 @@ z-index: 1000;
 }
 
 .text-inputs {
-    border-radius: 0.5rem;
     padding: 0.5rem;
     font-family: 'Montserrat', sans-serif;
-    border: var(--dark-purple) 1px solid;
-
+    border-bottom: var(--black) 1px solid;
     margin: 0.5rem auto;
     width: 90%;
+    background-color: var(--light-purple);
+    position: relative;
+}
+
+::placeholder {
+    color: var(--white);
+    position: absolute;
+    bottom: 1rem;
 }
 
 #submit {
