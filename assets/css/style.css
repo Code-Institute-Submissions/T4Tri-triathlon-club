@@ -775,4 +775,13 @@ z-index: 1000;
     overflow: hidden;
 }
 
+#contact {
+    height: 70rem;
+}
+
+#contact-form {
+    width: 60rem;
+    height: 50rem;
+    padding: 5rem;
+}
 }
