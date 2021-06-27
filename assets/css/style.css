@@ -459,7 +459,7 @@ z-index: 1000;
 /* 3.1 >=576px (Phone) */
 
 .events-icon {
-    font-size: 4rem;
+    font-size: 3rem;
     position: absolute;
     left: 8rem;
     width: 5rem;
@@ -468,6 +468,7 @@ z-index: 1000;
     align-items: center;
     justify-content: center;
 }
+
 
 /* 3.2 >=768px (Tablet) */
 
