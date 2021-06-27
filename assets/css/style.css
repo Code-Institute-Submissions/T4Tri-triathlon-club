@@ -737,4 +737,8 @@ z-index: 1000;
     left: 4rem;
 }
 
+.events-card a {
+    right: 4rem;
+}
+
 }
