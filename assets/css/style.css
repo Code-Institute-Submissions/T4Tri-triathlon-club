@@ -492,6 +492,15 @@ z-index: 1000;
     margin-right: 4rem;
 }
 
+.hero-text {
+    height: 10rem;
+    width: 20rem;
+}
+
+.hero-text h1 {
+    font-size: 5rem;
+}
+
 .logo h1 {
     font-size: 4rem;
     margin-left: 4rem;
