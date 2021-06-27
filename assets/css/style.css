@@ -741,5 +741,31 @@ z-index: 1000;
     right: 4rem;
 }
 
+.athletes-swimming {
+    display: block;
+    position: absolute;
+    height: 25rem;
+
+    right: 15rem;
+    top: 15rem;
+}
+
+.athletes-cycling {
+    display: block;
+    position: absolute;
+    height: 25rem;
+
+    right: 15rem;
+    top: 48rem;
+}
+
+.athletes-running {
+    display: block;
+    position: absolute;
+    height: 25rem;
+    right: 15rem;
+    top: 81rem;
+    overflow: hidden;
+}
 
 }
