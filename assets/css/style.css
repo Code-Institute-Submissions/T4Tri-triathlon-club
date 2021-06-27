@@ -712,7 +712,7 @@ z-index: 1000;
 }
 .events-card {
     width: 50%;
-    height: 15%;
+    height: 20rem;
 }
 
 .events-card-one {
@@ -752,8 +752,8 @@ z-index: 1000;
     position: absolute;
     height: 25rem;
     width: 37.5rem;
-    right: 15rem;
-    top: 15rem;
+    right: 6rem;
+    top: 28rem;
 }
 
 .athletes-cycling {
@@ -761,8 +761,8 @@ z-index: 1000;
     position: absolute;
     height: 25rem;
     width: 37.5rem;
-    right: 15rem;
-    top: 48rem;
+    right: 6rem;
+    top: 55rem;
 }
 
 .athletes-running {
@@ -770,8 +770,8 @@ z-index: 1000;
     position: absolute;
     height: 25rem;
     width: 37.5rem;
-    right: 15rem;
-    top: 81rem;
+    right: 6rem;
+    top: 82rem;
     overflow: hidden;
 }
 
