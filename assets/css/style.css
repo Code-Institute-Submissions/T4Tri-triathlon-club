@@ -375,7 +375,7 @@ z-index: 1000;
     align-items: center;
 }
 
-#events img {
+.athletes-swimming, .athletes-cycling, .athletes-running  {
     display: none;
 }
 
@@ -741,12 +741,5 @@ z-index: 1000;
     right: 4rem;
 }
 
-#events img {
-    display: block;
-    position: absolute;
-    height: 90rem;
-    right: 10rem;
-    top: 15rem;
-}
 
 }
