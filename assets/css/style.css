@@ -711,31 +711,31 @@ z-index: 1000;
     top: 5rem;
 }
 .events-card {
-    width: 50%;
+    width: 45%;
     height: 20rem;
 }
 
 .events-card-one {
     position: absolute;
-    left: 10rem;
+    left: 6rem;
     top: 20rem;
 }
 
 .events-card-two {
     position: absolute;
-    left: 10rem;
+    left: 6rem;
     top: 45rem;
 }
 
 .events-card-three {
     position: absolute;
-    left: 10rem;
+    left: 6rem;
     top: 70rem;
 }
 
 .events-card-four {
     position: absolute;
-    left: 10rem;
+    left: 6rem;
     top: 95rem;
 }
 
@@ -751,7 +751,7 @@ z-index: 1000;
     display: block;
     position: absolute;
     height: 25rem;
-    width: 37.5rem;
+    width: 35%;
     right: 6rem;
     top: 28rem;
 }
@@ -760,7 +760,7 @@ z-index: 1000;
     display: block;
     position: absolute;
     height: 25rem;
-    width: 37.5rem;
+    width: 35%;
     right: 6rem;
     top: 55rem;
 }
@@ -769,7 +769,7 @@ z-index: 1000;
     display: block;
     position: absolute;
     height: 25rem;
-    width: 37.5rem;
+    width: 35%;
     right: 6rem;
     top: 82rem;
     overflow: hidden;
