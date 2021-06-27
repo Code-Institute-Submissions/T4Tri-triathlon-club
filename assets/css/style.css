@@ -241,6 +241,14 @@ z-index: 1000;
     text-transform: uppercase;
 }
 
+.join-us:hover {
+    box-shadow: 2px 2px var(--dark-purple);
+    background-color: var(--white);
+    border: 1px solid var(--light-purple);
+    transition: 0.2s ease-in;
+    color: var(--dark-purple);
+ }
+
 #welcome a {
     text-decoration: none;
 }
@@ -569,6 +577,8 @@ z-index: 1000;
 
 @media (min-width: 992px) {
 
+/* 3.3.1 navigation bar */
+
 .nav-bar {
     flex-direction: row;
 }
@@ -627,6 +637,8 @@ z-index: 1000;
     color: var(--light-purple);
 }
 
+/* 3.3.2 home section */
+
 .hero-text {
     height: 10rem;
     width: 25rem;
@@ -636,13 +648,7 @@ z-index: 1000;
     font-size: 6rem;
 }
 
-.join-us:hover {
-   box-shadow: 2px 2px var(--dark-purple);
-   background-color: var(--white);
-   border: 1px solid var(--light-purple);
-   transition: 0.2s ease-in;
-   color: var(--dark-purple);
-}
+
 
 .events-card a:hover {
     box-shadow: 2px 2px var(--black) inset;
