@@ -457,16 +457,20 @@ z-index: 1000;
 /* 3. MEDIA QUERIES */
 
 /* 3.1 >=576px (Phone) */
+@media (min-width: 576px) {
 
 .events-icon {
     font-size: 3rem;
     position: absolute;
-    left: 8rem;
+    left: 9rem;
     width: 5rem;
     height: 5rem;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+
 }
 
 
@@ -507,13 +511,9 @@ z-index: 1000;
 
 .events-icon {
     font-size: 4rem;
-    position: absolute;
     left: 14rem;
     width: 8rem;
     height: 8rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .events-card a {
