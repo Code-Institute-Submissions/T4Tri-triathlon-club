@@ -478,6 +478,15 @@ z-index: 1000;
     right: 9rem;
 }
 
+.hero-text {
+    height: 8rem;
+    width: 15rem;
+}
+
+.hero-text h1 {
+    font-size: 4rem;
+}
+
 }
 
 
