@@ -664,5 +664,23 @@ z-index: 1000;
     left: 5rem;
 }
 
+.about-card-bike {
+    position: absolute;
+    top: 20rem;
+    right: 5rem;
+}
+
+.about-card-run {
+    position: absolute;
+    top: 60rem;
+    left: 5rem;
+}
+
+.about-card-social {
+    position: absolute;
+    top: 60rem;
+    right: 5rem;
+}
+
 
 }
