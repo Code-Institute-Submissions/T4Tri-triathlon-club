@@ -408,13 +408,20 @@ z-index: 1000;
     border-radius: 0.5rem;
 }
 
-#map {
+/* 2.6 footer section */
+
+#location {
+    height: 22.5rem;
     width: 100%;
-    margin: 2rem auto;
+}
+
+#map {
+    height: 22.5rem;
+    width: 100%;
 }
 
 
-/* 2.6 footer section */
+/* 2.7 footer section */
 
   #footer {
     width: 100%;
