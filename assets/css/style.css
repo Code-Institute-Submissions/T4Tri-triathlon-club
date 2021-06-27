@@ -435,6 +435,18 @@ z-index: 1000;
     margin: 2rem auto;
 }
 
+#submit:hover {
+    box-shadow: 2px 2px var(--dark-purple);
+    background-color: var(--white);
+    border: 1px solid var(--black);
+    transition: 0.2s ease-in;
+    color: var(--black);
+}
+
+#submit:focus {
+    box-shadow: 2px 2px var(--black) inset;
+}
+
 /* 2.6 footer section */
 
 #location {
