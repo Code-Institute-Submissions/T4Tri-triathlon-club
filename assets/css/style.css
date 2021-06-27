@@ -383,7 +383,7 @@ z-index: 1000;
 
 #contact {
     width: 100%;
-    height: 50rem;
+    height: 67.5rem;
     background-color: var(--dark-purple);
     display: flex;
     flex-direction: column;
@@ -397,7 +397,7 @@ z-index: 1000;
     background-color:var(--light-purple);
     padding: 1rem;
     width: 80%;
-    height: 30rem;
+    height: 45rem;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -409,10 +409,14 @@ z-index: 1000;
     padding: 0.5rem;
     font-family: 'Montserrat', sans-serif;
     border-bottom: var(--black) 1px solid;
-    margin: 0.5rem auto;
+    margin: 2rem auto;
     width: 90%;
     background-color: var(--light-purple);
     position: relative;
+}
+
+#message {
+    height: 16rem;
 }
 
 ::placeholder {
