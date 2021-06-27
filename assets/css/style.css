@@ -347,10 +347,15 @@ z-index: 1000;
 .events-icon {
     align-self: flex-start;
     margin: 0.5rem;
-    font-size: 1rem;
+    font-size: 2rem;
     background-color: var(--white);
     color: var(--dark-purple);
     padding: 0.5rem;
+    height: 3rem;
+    width: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
