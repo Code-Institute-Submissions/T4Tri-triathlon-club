@@ -691,5 +691,9 @@ z-index: 1000;
     top: 5rem;
 }
 
+#about {
+    height: 100rem;
+}
+
 
 }
