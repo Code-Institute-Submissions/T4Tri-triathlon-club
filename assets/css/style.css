@@ -241,6 +241,10 @@ z-index: 1000;
     text-transform: uppercase;
 }
 
+#welcome a {
+    text-decoration: none;
+}
+
 
 /* 2.3 about section */
 
