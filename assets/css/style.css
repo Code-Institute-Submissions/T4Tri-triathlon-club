@@ -686,5 +686,10 @@ z-index: 1000;
     width: 40%;
 }
 
+.about-header {
+    position: absolute;
+    top: 5rem;
+}
+
 
 }
