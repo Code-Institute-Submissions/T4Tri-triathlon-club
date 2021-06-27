@@ -628,9 +628,12 @@ z-index: 1000;
 }
 
 .hero-text {
-height: 5rem;
-width: 15rem;
-font-size: 200%;
+    height: 10rem;
+    width: 25rem;
+}
+
+.hero-text h1 {
+    font-size: 6rem;
 }
 
 .join-us:hover {
