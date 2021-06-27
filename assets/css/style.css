@@ -699,4 +699,38 @@ z-index: 1000;
 }
 
 
+/* 3.3.4 events section */
+
+#events {
+    position: relative;
+}
+
+.events-card {
+    width: 40%;
+}
+
+.events-card-one {
+    position: absolute;
+    left: 10rem;
+    top: 15rem;
+}
+
+.events-card-two {
+    position: absolute;
+    left: 10rem;
+    top: 40rem;
+}
+
+.events-card-three {
+    position: absolute;
+    left: 10rem;
+    top: 65rem;
+}
+
+.events-card-four {
+    position: absolute;
+    left: 10rem;
+    top: 90rem;
+}
+
 }
