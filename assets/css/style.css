@@ -703,34 +703,40 @@ z-index: 1000;
 
 #events {
     position: relative;
+    height: 130rem;
 }
 
+.events-header {
+    position: absolute;
+    top: 5rem;
+}
 .events-card {
     width: 50%;
+    height: 15%;
 }
 
 .events-card-one {
     position: absolute;
     left: 10rem;
-    top: 15rem;
+    top: 20rem;
 }
 
 .events-card-two {
     position: absolute;
     left: 10rem;
-    top: 40rem;
+    top: 45rem;
 }
 
 .events-card-three {
     position: absolute;
     left: 10rem;
-    top: 65rem;
+    top: 70rem;
 }
 
 .events-card-four {
     position: absolute;
     left: 10rem;
-    top: 90rem;
+    top: 95rem;
 }
 
 .events-icon {
@@ -745,7 +751,7 @@ z-index: 1000;
     display: block;
     position: absolute;
     height: 25rem;
-
+    width: 37.5rem;
     right: 15rem;
     top: 15rem;
 }
@@ -754,7 +760,7 @@ z-index: 1000;
     display: block;
     position: absolute;
     height: 25rem;
-
+    width: 37.5rem;
     right: 15rem;
     top: 48rem;
 }
@@ -763,6 +769,7 @@ z-index: 1000;
     display: block;
     position: absolute;
     height: 25rem;
+    width: 37.5rem;
     right: 15rem;
     top: 81rem;
     overflow: hidden;
