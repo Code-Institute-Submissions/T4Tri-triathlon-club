@@ -470,6 +470,13 @@ z-index: 1000;
     justify-content: center;
 }
 
+.events-card a {
+    height: 5rem;
+    width: 5rem;
+    font-size: 4rem;
+    position: absolute;
+    right: 9rem;
+}
 
 }
 
