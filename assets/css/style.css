@@ -413,6 +413,7 @@ z-index: 1000;
     width: 90%;
     background-color: var(--light-purple);
     position: relative;
+    color: var(--white);
 }
 
 #message {
