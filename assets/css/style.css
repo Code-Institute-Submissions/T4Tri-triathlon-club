@@ -890,4 +890,13 @@ z-index: 1000;
     width: 40rem;
 }
 
+#about {
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.about-card-swim, .about-card-bike, .about-card-run, .about-card-social {
+    position: unset;
+}
+
 }
