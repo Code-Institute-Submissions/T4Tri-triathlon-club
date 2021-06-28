@@ -910,7 +910,12 @@ z-index: 1000;
 
 .athletes-swimming, .athletes-cycling, .athletes-running {
     width: 35rem;
-    right: 20%;
+    right: 15rem;
+}
+
+.events-card-one, .events-card-two, .events-card-three, .events-card-four {
+    left: 10rem;
+    width: 60rem;
 }
 
 
