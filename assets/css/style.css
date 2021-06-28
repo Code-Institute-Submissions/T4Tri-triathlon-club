@@ -893,6 +893,7 @@ z-index: 1000;
 #about {
     flex-direction: row;
     justify-content: space-evenly;
+    height: 60rem;
 }
 
 .about-card-swim, .about-card-bike, .about-card-run, .about-card-social {
