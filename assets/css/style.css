@@ -452,15 +452,15 @@ z-index: 1000;
     box-shadow: 2px 2px var(--black) inset;
 }
 
-/* 2.6 footer section */
-
 #map {
-    height: 22.5rem;
-    width: 100%;
+    height: 13.5rem;
+    width: 90%;
+    margin: 3rem auto;
+    border: 1px solid var(--black);
 }
 
 
-/* 2.7 footer section */
+/* 2.6 footer section */
 
   #footer {
     width: 100%;
