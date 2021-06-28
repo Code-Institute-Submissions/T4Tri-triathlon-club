@@ -884,4 +884,10 @@ z-index: 1000;
     margin: 3rem 15rem;
 }
 
+/* 3.4.3 about section */
+
+.about-card {
+    width: 40rem;
+}
+
 }
