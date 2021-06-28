@@ -527,7 +527,10 @@ z-index: 1000;
     font-size: 2rem;
 }
 
-
+.submission-page span {
+    color: var(--dark-purple);
+    font-size: 3rem;
+}
 
 /* 3. MEDIA QUERIES */
 
