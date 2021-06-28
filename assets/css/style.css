@@ -532,6 +532,10 @@ z-index: 1000;
     font-size: 6rem;
 }
 
+.submission-page i:hover {
+    color: var(--white);
+    transition: .3s ease-in;
+}
 /* 3. MEDIA QUERIES */
 
 /* 3.1 >=576px (Phone) */
