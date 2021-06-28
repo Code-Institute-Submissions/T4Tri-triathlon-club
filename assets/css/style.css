@@ -511,7 +511,16 @@ z-index: 1000;
     justify-content: space-evenly;
 }    
 
-
+.submission-page h3 {
+    background-color: var(--white);
+    width: 28rem;
+    height: 17rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 5rem;
+    text-align: center;
+}
 
 /* 3. MEDIA QUERIES */
 
