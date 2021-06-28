@@ -497,6 +497,16 @@ z-index: 1000;
     color: var(--white);
 }
 
+/* 2.8 contact.html */
+
+.submission-page {
+    height: 100vh;
+    width: 100vw;
+    background-color: var(--black);
+    color: var(--white);
+    overflow: hidden;
+}    
+
 /* 3. MEDIA QUERIES */
 
 /* 3.1 >=576px (Phone) */
