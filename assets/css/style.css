@@ -522,6 +522,13 @@ z-index: 1000;
     text-align: center;
 }
 
+.submission-page p {
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+
 /* 3. MEDIA QUERIES */
 
 /* 3.1 >=576px (Phone) */
