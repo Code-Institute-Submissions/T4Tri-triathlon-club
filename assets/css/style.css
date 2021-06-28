@@ -887,7 +887,7 @@ z-index: 1000;
 /* 3.4.3 about section */
 
 .about-card {
-    width: 40rem;
+    width: 28rem;
 }
 
 #about {
@@ -898,5 +898,6 @@ z-index: 1000;
 .about-card-swim, .about-card-bike, .about-card-run, .about-card-social {
     position: unset;
 }
+
 
 }
