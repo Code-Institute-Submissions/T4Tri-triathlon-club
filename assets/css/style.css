@@ -444,7 +444,7 @@ z-index: 1000;
     box-shadow: 2px 2px var(--dark-purple);
     background-color: var(--white);
     border: 1px solid var(--black);
-    transition: 0.2s ease-in;
+    transition: 0.6s ease-out;
     color: var(--black);
 }
 
@@ -841,13 +841,33 @@ z-index: 1000;
 #contact {
     height: 70rem;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    position: relative;
 }
 
 #contact-form {
-    width: 60rem;
+    width: 40rem;
     height: 50rem;
     padding: 5rem;
+    margin-top: 6rem;
 }
+
+.contact-header {
+    position: absolute;
+    top: 5rem;
+}
+
+#map {
+    height: 40rem;
+    width: 35rem;
+    margin-top: 7rem;
+}
+
+
+
+
+
+
+
 
 }
