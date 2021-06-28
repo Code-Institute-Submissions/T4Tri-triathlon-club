@@ -840,6 +840,8 @@ z-index: 1000;
 
 #contact {
     height: 70rem;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 #contact-form {
@@ -847,4 +849,5 @@ z-index: 1000;
     height: 50rem;
     padding: 5rem;
 }
+
 }
