@@ -838,6 +838,8 @@ z-index: 1000;
     overflow: hidden;
 }
 
+/* 3.3.5 contact section */
+
 #contact {
     height: 70rem;
     flex-direction: row;
@@ -863,11 +865,23 @@ z-index: 1000;
     margin-top: 7rem;
 }
 
+}
 
+/* 3.4 >=1200px (x-large) */
 
+@media (min-width: 1200px) {
 
+/* 3.4.1 Home section */
 
+    .hero-text {
+        width: 35rem;
+    }
+    
 
+/* 3.4.2 welcome section */
 
+#welcome p {
+    margin: 3rem 15rem;
+}
 
 }
