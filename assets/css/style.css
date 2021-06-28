@@ -455,7 +455,7 @@ z-index: 1000;
 #map {
     height: 13.5rem;
     width: 90%;
-    margin: 3rem auto;
+    margin-top: 3rem;
     border: 1px solid var(--black);
 }
 
