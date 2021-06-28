@@ -910,7 +910,7 @@ z-index: 1000;
 
 .athletes-swimming, .athletes-cycling, .athletes-running {
     width: 35rem;
-    right: 15rem;
+    right: 10rem;
 }
 
 .events-card-one, .events-card-two, .events-card-three, .events-card-four {
@@ -919,8 +919,13 @@ z-index: 1000;
 }
 
 
+/* 3.4.5 contact section */
 
 
+#map {
+    height: 25rem;
+    width: 55rem;
+}
 
 
 
