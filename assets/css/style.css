@@ -532,6 +532,11 @@ z-index: 1000;
     font-size: 3rem;
 }
 
+.submission-page i {
+    color: var(--dark-purple);
+    font-size: 6rem;
+}
+
 /* 3. MEDIA QUERIES */
 
 /* 3.1 >=576px (Phone) */
