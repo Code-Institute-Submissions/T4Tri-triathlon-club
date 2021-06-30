@@ -249,6 +249,7 @@ z-index: 1000;
     color: var(--dark-purple);
  }
 
+
 #welcome a {
     text-decoration: none;
 }
@@ -480,6 +481,7 @@ z-index: 1000;
     flex-direction: row;
     justify-content: space-evenly;
     width: 100%;
+    margin: 2rem auto;
 }
 
 #social-links a {
