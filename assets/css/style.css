@@ -34,7 +34,6 @@ h1, h2, h3, h4 {
 font-family: 'Roboto Slab', serif;
 letter-spacing: 1px;
 font-size: 2.5rem;
-color:#121A18;
 }
 
 p {
@@ -176,8 +175,7 @@ z-index: 1000;
     position: absolute;
     bottom: 15%;
     left: 10%;
-    background-color: var(--dark-purple);
-    color: var(--white);
+    background-color: var(--black);
     font-size: 15rem;
     display: flex;
     align-items: center;
@@ -188,8 +186,12 @@ z-index: 1000;
     animation-duration: 7s;
     transition-timing-function: ease-in;
     animation-fill-mode: forwards;
+    border: 1px solid var(--dark-purple);
 }
 
+.hero-text h1 {
+    color: var(--white);
+}
 
 /* 2.2.1 Hero Animation */
 
