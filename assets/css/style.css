@@ -44,6 +44,7 @@ letter-spacing: 0.2px;
 
 .section-header {
     margin-top: 5rem;
+    font-size: 3rem;
 }
 
 /* 2. MAIN STYLING */
@@ -552,6 +553,7 @@ z-index: 1000;
 .submission-page i:hover {
     color: var(--white);
     transition: .3s ease-in;
+
 }
 /* 3. MEDIA QUERIES */
 
