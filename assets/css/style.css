@@ -280,7 +280,8 @@ z-index: 1000;
   }
 
   #about h2 {
-      color: var(--white);
+    background-color: var(--white);
+    color: var(--light-purple);
   }
 
   .about-card {
@@ -409,7 +410,8 @@ z-index: 1000;
 }
 
 #contact h2 {
-    color: var(--white);
+    background-color: var(--white);
+    color: var(--light-purple);
 }
 
 #contact-form {
