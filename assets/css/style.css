@@ -487,6 +487,13 @@ z-index: 1000;
 #social-links a {
     color: var(--white);
     text-decoration: none;
+    border:2px solid var(--black);
+    border-radius: 50%;
+    height: 4rem;
+    width: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #footer h4 {
