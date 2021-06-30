@@ -494,6 +494,14 @@ z-index: 1000;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 2rem;
+}
+
+#social-links a:hover {
+    border-color: var(--dark-purple);
+    background-color: var(--white);
+    color: var(--black);
+    transition: 0.5s ease-in;
 }
 
 #footer h4 {
