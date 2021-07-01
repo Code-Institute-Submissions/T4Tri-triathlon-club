@@ -769,6 +769,10 @@ z-index: 1000;
     display: block;
 }
 
+#about h2 {
+    margin: 9rem auto 5rem auto;
+}
+
 .about-card-swim {
     position: absolute;
     top: 20rem;
