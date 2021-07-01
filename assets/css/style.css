@@ -830,25 +830,25 @@ z-index: 1000;
 .events-card-one {
     position: absolute;
     left: 6rem;
-    top: 20rem;
+    top: 25rem;
 }
 
 .events-card-two {
     position: absolute;
     left: 6rem;
-    top: 45rem;
+    top: 50rem;
 }
 
 .events-card-three {
     position: absolute;
     left: 6rem;
-    top: 70rem;
+    top: 75rem;
 }
 
 .events-card-four {
     position: absolute;
     left: 6rem;
-    top: 95rem;
+    top: 100rem;
 }
 
 .events-icon {
