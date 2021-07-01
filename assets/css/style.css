@@ -766,6 +766,7 @@ z-index: 1000;
 
 #about {
     position: relative;
+    display: block;
 }
 
 .about-card-swim {
