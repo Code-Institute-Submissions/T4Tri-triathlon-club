@@ -775,25 +775,25 @@ z-index: 1000;
 
 .about-card-swim {
     position: absolute;
-    top: 20rem;
+    top: 25rem;
     left: 5rem;
 }
 
 .about-card-bike {
     position: absolute;
-    top: 20rem;
+    top: 25rem;
     right: 5rem;
 }
 
 .about-card-run {
     position: absolute;
-    top: 60rem;
+    top: 65rem;
     left: 5rem;
 }
 
 .about-card-social {
     position: absolute;
-    top: 60rem;
+    top: 65rem;
     right: 5rem;
 }
 
