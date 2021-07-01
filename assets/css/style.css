@@ -903,11 +903,11 @@ z-index: 1000;
 
 #contact-form {
     position: absolute;
-    width: 40rem;
+    width: 40%;
     height: 50rem;
     padding: 5rem;
     top: 23rem;
-    left: 15rem;
+    left: 7rem;
 }
 
 .contact-header {
