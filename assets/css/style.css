@@ -955,6 +955,11 @@ z-index: 1000;
     height: 60rem;
 }
 
+#about h2 {
+    position: absolute;
+    top: 0;
+}
+
 .about-card-swim, .about-card-bike, .about-card-run, .about-card-social {
     position: unset;
 }
