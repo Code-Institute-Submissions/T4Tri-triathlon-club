@@ -896,6 +896,11 @@ z-index: 1000;
     position: relative;
 }
 
+.contact-header {
+    position: absolute;
+    top: 5rem;
+}
+
 #contact-form {
     width: 40rem;
     height: 50rem;
