@@ -865,7 +865,7 @@ z-index: 1000;
     height: 25rem;
     width: 35%;
     right: 6rem;
-    top: 28rem;
+    top: 33rem;
 }
 
 .athletes-cycling {
@@ -874,7 +874,7 @@ z-index: 1000;
     height: 25rem;
     width: 35%;
     right: 6rem;
-    top: 55rem;
+    top: 60rem;
 }
 
 .athletes-running {
@@ -883,7 +883,7 @@ z-index: 1000;
     height: 25rem;
     width: 35%;
     right: 6rem;
-    top: 82rem;
+    top: 87rem;
     overflow: hidden;
 }
 
