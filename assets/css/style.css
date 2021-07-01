@@ -890,7 +890,7 @@ z-index: 1000;
 /* 3.3.5 contact section */
 
 #contact {
-    height: 70rem;
+    height: 82.5rem;
     flex-direction: row;
     justify-content: space-evenly;
     position: relative;
@@ -906,7 +906,7 @@ z-index: 1000;
     width: 40rem;
     height: 50rem;
     padding: 5rem;
-    top: 25rem;
+    top: 23rem;
     left: 15rem;
 }
 
