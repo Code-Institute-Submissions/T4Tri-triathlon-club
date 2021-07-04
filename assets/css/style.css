@@ -533,11 +533,6 @@ p {
     width: 100vw;
     background-color: var(--black);
     color: var(--white);
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-evenly;
 }
 
 .submission-page h3 {
