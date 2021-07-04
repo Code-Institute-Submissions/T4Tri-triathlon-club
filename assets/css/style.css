@@ -498,7 +498,7 @@ z-index: 1000;
     align-items: center;
     text-align: center;
     padding: 1rem;
-    border-top: 1px solidvar(--white);
+    border-top: 1px solid var(--white);
 }
 
 #social-links {
