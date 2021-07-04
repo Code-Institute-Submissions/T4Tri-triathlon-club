@@ -744,7 +744,8 @@ z-index: 1000;
 }
 
 .logo {
-    margin-left: 25px;
+    margin-left: 2.5rem;
+    font-size: 4rem;
 }
 
 .main-menu a {
