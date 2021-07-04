@@ -194,9 +194,6 @@ z-index: 1000;
     left: 10%;
     background-color: var(--black);
     font-size: 15rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     padding: 0;
     opacity: 0;
     animation: hero-text;
@@ -257,8 +254,6 @@ z-index: 1000;
   }
 
   .join-us {
-    display: flex;
-    justify-content: center;
     width: 12rem;
     background-color: var(--dark-purple);
     border: 1px solid var(--dark-purple);
