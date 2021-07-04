@@ -603,7 +603,6 @@ p {
         left: 15%;
         width: 5rem;
         height: 5rem;
-
     }
 
     .events-card a {
@@ -790,28 +789,22 @@ p {
         margin: 9rem auto 5rem auto;
     }
 
-    .about-card-swim {
+    .about-card-swim, .about-card-run {
         position: absolute;
-        top: 25rem;
         left: 5rem;
     }
 
-    .about-card-bike {
+    .about-card-bike, .about-card-social {
         position: absolute;
+        right: 5rem;
+    }
+
+    .about-card-swim, .about-card-bike{
         top: 25rem;
-        right: 5rem;
     }
 
-    .about-card-run {
-        position: absolute;
+    .about-card-run, .about-card-social {
         top: 65rem;
-        left: 5rem;
-    }
-
-    .about-card-social {
-        position: absolute;
-        top: 65rem;
-        right: 5rem;
     }
 
     .about-card {
