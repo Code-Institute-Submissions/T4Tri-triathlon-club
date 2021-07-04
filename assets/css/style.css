@@ -144,7 +144,6 @@ p {
     animation: button-animation;
     animation-duration: 1s;
     transition-timing-function: ease;
-    animation-fill-mode: forwards;
     color: var(--dark-purple);
 }
 
