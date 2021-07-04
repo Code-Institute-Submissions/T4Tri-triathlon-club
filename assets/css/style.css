@@ -145,7 +145,7 @@ left: 0;
 .main-menu:target ul,
 .main-menu[aria-expanded="true"] ul {
 position: relative;
-top: 5.6rem;
+top: 4.6rem;
 z-index: 1000;
 }
 
