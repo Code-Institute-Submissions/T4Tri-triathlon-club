@@ -530,9 +530,6 @@ p {
     border-radius: 50%;
     height: 4rem;
     width: 4rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     font-size: 2rem;
 }
 
