@@ -830,27 +830,24 @@ z-index: 1000;
     height: 20rem;
 }
 
-.events-card-one {
+.events-card-one, .events-card-two, .events-card-three, .events-card-four {
     position: absolute;
-    left: 6rem;
+    left: 6%;
+}
+
+.events-card-one {
     top: 25rem;
 }
 
 .events-card-two {
-    position: absolute;
-    left: 6rem;
     top: 50rem;
 }
 
 .events-card-three {
-    position: absolute;
-    left: 6rem;
     top: 75rem;
 }
 
 .events-card-four {
-    position: absolute;
-    left: 6rem;
     top: 100rem;
 }
 
@@ -861,13 +858,13 @@ z-index: 1000;
 .events-card a {
     right: 4rem;
 }
+
 .athletes-swimming, .athletes-cycling, .athletes-running {
     display: block;
     position: absolute;
     height: 25rem;
     width: 40rem;
     right: 6%;
-
 }
 
 .athletes-swimming {
