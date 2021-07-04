@@ -1,3 +1,43 @@
+/* Contents */
+/*
+    1. GLOBAL
+        1.1 global styles  
+        1.2 typography
+
+    2. MAIN STYLING
+        2.1  section headers
+        2.2  center all
+        2.3  navigation
+        2.4  home section
+             2.4.1 Hero Animation
+        2.5  welcome section
+        2.6  about section
+        2.7  events section
+        2.8  contact section
+        2.9  footer section
+        2.10 contact.html
+
+    3. MEDIA QUERIES
+        3.1  >=576px (Phone)
+        3.2  >=768px (Tablet)
+            3.2.1  navigation
+            3.2.2  welcome section
+            3.2.3  about section
+            3.2.4  events section
+            3.2.5  footer section
+        3.3  >=992px (large)
+            3.3.1  navigation
+            3.3.2  home section
+            3.3.3  about section
+            3.3.4  events section
+            3.3.5  contact section
+        3.4  >=1200px (x-large)
+            3.4.1  home section
+            3.4.2  welcome section
+            3.4.3  about section
+            3.4.4  events section
+            3.4.5  contact section
+
 /* 1. GLOBAL */
 
 /* 1.1 global styles */
@@ -46,6 +86,10 @@ p {
     letter-spacing: 0.2px;
 }
 
+/* 2. MAIN STYLING */
+
+/* 2.1 section headers */
+
 .section-header {
     margin: 5rem auto;
     font-size: 3rem;
@@ -60,9 +104,7 @@ p {
     color: var(--white);
 }
 
-/* 2. MAIN STYLING */
-
-/* center all */
+/* 2.2 center all */
 
 .center-all {
     display: flex;
@@ -78,7 +120,7 @@ p {
     text-align: center;
 }
 
-/* 2.2 home section */
+/* 2.3 navigation */
 
 #top-nav {
     position: fixed;
@@ -155,7 +197,6 @@ p {
     text-decoration: none;
 }
 
-
 .main-menu a:hover {
     background: var(--dark-purple);
 }
@@ -179,7 +220,7 @@ p {
     z-index: 1000;
 }
 
-/* 2.2 home section */
+/* 2.4 home section */
 
 #home {
     height: 60vh;
@@ -219,7 +260,7 @@ p {
     color: var(--white);
 }
 
-/* 2.2.1 Hero Animation */
+/* 2.4.1 Hero Animation */
 
 @keyframes hero-zoom {
     from {
@@ -241,8 +282,7 @@ p {
     }
 }
 
-
-/* 2.2 welcome section */
+/* 2.5 welcome section */
 
 #welcome {
     height: 45rem;
@@ -284,13 +324,11 @@ p {
     color: var(--dark-purple);
 }
 
-
 #welcome a {
     text-decoration: none;
 }
 
-
-/* 2.3 about section */
+/* 2.6 about section */
 
 #about {
     width: 100%;
@@ -336,8 +374,7 @@ p {
     padding: 0 1.5rem;
 }
 
-
-/* 2.4 events section */
+/* 2.7 events section */
 
 #events {
     width: 100%;
@@ -404,7 +441,7 @@ p {
     display: none;
 }
 
-/* 2.5 contact section */
+/* 2.8 contact section */
 
 #contact {
     width: 100%;
@@ -484,8 +521,7 @@ p {
     border: 1px solid var(--black);
 }
 
-
-/* 2.6 footer section */
+/* 2.9 footer section */
 
 #footer {
     width: 100%;
@@ -526,7 +562,7 @@ p {
     color: var(--white);
 }
 
-/* 2.8 contact.html */
+/* 2.10 contact.html */
 
 .submission-page {
     height: 100vh;
@@ -561,7 +597,6 @@ p {
 .submission-page i:hover {
     color: var(--white);
     transition: .3s ease-in;
-
 }
 
 /* 3. MEDIA QUERIES */
@@ -593,15 +628,13 @@ p {
     .hero-text h1 {
         font-size: 4rem;
     }
-
 }
-
 
 /* 3.2 >=768px (Tablet) */
 
 @media (min-width: 768px) {
 
-    /* 3.2.1 Navigation */
+    /* 3.2.1 navigation */
 
     .menu-toggle {
         margin-right: 4rem;
@@ -626,7 +659,6 @@ p {
     #welcome p {
         margin: 3rem 7rem;
     }
-
 
     /* 3.2.3 about section */
 
@@ -653,11 +685,7 @@ p {
         right: 14rem;
     }
 
-    /* 3.2.5 contact section */
-
-
-
-    /* 3.2.6 footer section */
+    /* 3.2.5 footer section */
 
     #footer a {
         font-size: 2rem;
@@ -666,10 +694,7 @@ p {
     #footer h4 {
         font-size: 1.5rem;
     }
-
 }
-
-
 
 /* 3.3 >=992px (large) */
 
@@ -792,7 +817,6 @@ p {
         height: 100rem;
     }
 
-
     /* 3.3.4 events section */
 
     #events {
@@ -900,19 +924,17 @@ p {
         top: 26rem;
         right: 7%;
     }
-
 }
 
 /* 3.4 >=1200px (x-large) */
 
 @media (min-width: 1200px) {
 
-    /* 3.4.1 Home section */
+    /* 3.4.1 home section */
 
     .hero-text {
         width: 35rem;
     }
-
 
     /* 3.4.2 welcome section */
 
@@ -950,7 +972,6 @@ p {
         margin-top: 12rem;
     }
 
-
     /* 3.4.4 events section */
 
     .athletes-swimming,
@@ -966,19 +987,10 @@ p {
         left: 10%;
     }
 
-
     /* 3.4.5 contact section */
-
 
     #map {
         height: 25rem;
         top: 32rem;
     }
-
-
-
-
-
-
-
 }
