@@ -112,7 +112,7 @@ z-index: 999;
 .main-menu ul {
 display: flex;
 flex-direction: column;
-justify-content: space-around;
+justify-content: flex-start;
 align-items: center;
 list-style: none;
 height: 100vh;
