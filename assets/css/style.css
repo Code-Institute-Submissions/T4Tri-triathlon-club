@@ -94,6 +94,10 @@ font-size: 3rem;
 color: var(--white);
 }
 
+.logo:hover, .menu-toggle:hover {
+    color: var(--light-purple);
+}
+
 .main-menu {
 position: absolute;
 display: none;
@@ -621,7 +625,6 @@ z-index: 1000;
 /* 3.2.1 Navigation */
 
 .menu-toggle {
-    font-size: 4rem;
     margin-right: 4rem;
 }
 
