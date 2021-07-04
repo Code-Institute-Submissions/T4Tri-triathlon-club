@@ -58,6 +58,15 @@ letter-spacing: 0.2px;
 
 /* 2. MAIN STYLING */
 
+/* center all */
+
+.center-all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 /* 2.2 home section */
 
 #top-nav {
