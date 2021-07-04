@@ -587,7 +587,7 @@ z-index: 1000;
 .events-icon {
     font-size: 3rem;
     position: absolute;
-    left: 9rem;
+    left: 15%;
     width: 5rem;
     height: 5rem;
     display: flex;
@@ -600,7 +600,7 @@ z-index: 1000;
     width: 5rem;
     font-size: 4rem;
     position: absolute;
-    right: 9rem;
+    right: 15%;
 }
 
 .hero-text {
@@ -965,13 +965,11 @@ z-index: 1000;
 /* 3.4.4 events section */
 
 .athletes-swimming, .athletes-cycling, .athletes-running {
-    width: 35rem;
-    right: 10rem;
+    right: 10%;
 }
 
 .events-card-one, .events-card-two, .events-card-three, .events-card-four {
-    left: 10rem;
-    width: 60rem;
+    left: 10%;
 }
 
 
