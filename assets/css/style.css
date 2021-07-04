@@ -9,6 +9,7 @@
     --white: #FFFDDF;
     --black: #121A18;
 }
+
 html {
    font-size: 62.5%;
    scroll-behavior: smooth;
@@ -76,17 +77,6 @@ align-items: center;
 justify-content: space-between;
 border-bottom: 1px solid var(--white);
 width: 100%;
-}
-
-.menu-toggle, .logo {
-line-height: 5.5rem;
-color: var(--white);
-text-shadow: 5px 5px 10px var(--dark-purple);
-}
-
-.menu-toggle:hover, .logo:hover {
-    text-decoration: none;
-    color: #FFFDDF;
 }
 
 .logo h1 {
