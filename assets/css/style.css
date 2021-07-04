@@ -121,6 +121,10 @@ background-color: var(--light-purple);
 top: 3.5rem;
 }
 
+.main-menu li {
+    margin: 2.5rem auto;
+}
+
 .main-menu a {
 display: block;
 padding: 1em;
