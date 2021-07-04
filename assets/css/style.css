@@ -348,7 +348,7 @@ z-index: 1000;
 .events-card h3 {
     color: var(--white);
     font-size: 2rem;
-    margin: 0.25 auto;
+    margin: 0.25rem auto;
 }
 
 .events-card p {
