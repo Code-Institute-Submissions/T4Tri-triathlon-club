@@ -898,6 +898,7 @@ p {
         height: 82.5rem;
         flex-direction: row;
         justify-content: space-evenly;
+        align-items: center;
         position: relative;
     }
 
