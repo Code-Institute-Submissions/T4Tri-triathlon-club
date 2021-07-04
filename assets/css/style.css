@@ -423,9 +423,6 @@ p {
     padding: 1rem;
     width: 80%;
     height: 45rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
     box-shadow: 0.5rem 0.5rem 3rem var(--black);
     border: 1px solid var(--black);
 }
