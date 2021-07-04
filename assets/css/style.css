@@ -403,9 +403,6 @@ p {
     padding: 0.5rem;
     height: 3rem;
     width: 3rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .athletes-swimming,
