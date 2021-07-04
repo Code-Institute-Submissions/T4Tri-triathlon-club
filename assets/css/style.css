@@ -120,6 +120,54 @@ p {
     text-align: center;
 }
 
+/* 2.3 buttons */
+
+.button {
+    width: 12rem;
+    background-color: var(--white);
+    border-top: 1px solid var(--dark-purple);
+    border-bottom: 1px solid var(--dark-purple);
+    border-left: none;
+    border-right: none;
+    color: var(--dark-purple);
+    padding: 1.5rem;
+    margin: 2rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    box-shadow: 0px 10px 7px -8px var(--light-purple);
+}
+
+.button:hover {
+    width: 14rem;
+    transition: 0.5s ease-in;
+    letter-spacing: 2px;
+    animation: button-animation;
+    animation-duration: 1s;
+    transition-timing-function: ease;
+    animation-fill-mode: forwards;
+    color: var(--dark-purple);
+}
+
+@keyframes button-animation {
+0% {
+    transform: rotate(0deg);
+}
+25% {
+    transform: rotate(5deg);
+}
+50% {
+    transform: rotate(-5deg);
+}
+75% {
+    transform: rotate(5deg);
+}
+100% {
+    transform: rotate(0deg);
+}
+}
+
+
+
 /* 2.3 navigation */
 
 #top-nav {
@@ -301,27 +349,6 @@ p {
     color: var(--dark-purple);
     font-size: 2rem;
     font-weight: 800;
-}
-
-.join-us {
-
-    width: 12rem;
-    background-color: var(--dark-purple);
-    border: 1px solid var(--dark-purple);
-    color: var(--white);
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    margin: 2rem;
-    cursor: pointer;
-    text-transform: uppercase;
-}
-
-.join-us:hover {
-    box-shadow: 2px 2px var(--dark-purple);
-    background-color: var(--white);
-    border: 1px solid var(--light-purple);
-    transition: 0.2s ease-in;
-    color: var(--dark-purple);
 }
 
 #welcome a {
