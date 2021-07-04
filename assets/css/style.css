@@ -96,6 +96,7 @@ color: var(--white);
 
 .logo:hover, .menu-toggle:hover {
     color: var(--light-purple);
+    text-decoration: none; 
 }
 
 .main-menu {
