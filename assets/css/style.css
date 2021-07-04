@@ -444,7 +444,6 @@ z-index: 1000;
     color: var(--black);
     box-shadow: 0 0 0.5rem var(--black);
     outline: none;
-    
 }
 
 #message {
@@ -862,33 +861,25 @@ z-index: 1000;
 .events-card a {
     right: 4rem;
 }
-
-.athletes-swimming {
+.athletes-swimming, .athletes-cycling, .athletes-running {
     display: block;
     position: absolute;
     height: 25rem;
-    width: 35%;
-    right: 6rem;
+    width: 40rem;
+    right: 6%;
+
+}
+
+.athletes-swimming {
     top: 33rem;
 }
 
 .athletes-cycling {
-    display: block;
-    position: absolute;
-    height: 25rem;
-    width: 35%;
-    right: 6rem;
     top: 60rem;
 }
 
 .athletes-running {
-    display: block;
-    position: absolute;
-    height: 25rem;
-    width: 35%;
-    right: 6rem;
     top: 87rem;
-    overflow: hidden;
 }
 
 /* 3.3.5 contact section */
