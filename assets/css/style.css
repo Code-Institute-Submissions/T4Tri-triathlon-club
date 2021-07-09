@@ -690,7 +690,7 @@ p {
 
     .events-icon {
         font-size: 4rem;
-        left: 15%;
+        left: 10%;
         width: 8rem;
         height: 8rem;
         top: 5rem;
@@ -701,7 +701,7 @@ p {
         width: 8rem;
         font-size: 4rem;
         position: absolute;
-        right: 15%;
+        right: 10%;
         top: 5.5rem;
     }
 
