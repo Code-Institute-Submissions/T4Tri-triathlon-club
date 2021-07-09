@@ -121,6 +121,12 @@ The wireframes are below:
 
 ### Navigation
 
+The navigation bar is fully responsive and and 
+
+![Nav bar on hover](wireframes/nav-bar-hover.JPG)
+![Nav bar on focus](wireframes/nav-bar-focus.JPG)
+![Nav bar on small devices](wireframes/nav-bar-small.JPG)
+![Nav bar on small devices expanded](wireframes/nav-bar-small-expanded.JPG)
 ### Hero Image
 
 ### Welcome Section
