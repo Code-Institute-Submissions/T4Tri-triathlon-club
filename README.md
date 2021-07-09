@@ -7,7 +7,11 @@
 # Goal for this Project
 Welcome to T4Tri Triathalon Club. This club provides an outlet for all age groups from 16 to 116 to get involved and give trathalons a go. 
 
-This website gives some information about the club, basic information about trathalons and club events to capture the eye of a potential member. It also give the ability to make contact with the club easily through social media or directly via the contact form.
+This site gives some information about the club, basic information about triathlons and club events to capture the eye of a potential member. It also give the ability to make contact with the club easily through social media or directly via the contact form.
+
+
+
+![Responsive Displays](wireframes/different-displays.JPG)
 
 # Table of Contents
 * [UX](#ux "UX")
