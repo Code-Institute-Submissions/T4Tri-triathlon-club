@@ -32,6 +32,7 @@ This site gives some information about the club, basic information about triathl
             * [Navigation Bar](#navigation-bar)
             * [Landing Page](#landing-page)
             * [About Section](#about-section)
+            * [Events Section](#events-section)
         * [Features to be implemented](#features-to-be-implemented)
     * [Technologies used](#technologies-used)
         * [Languages](#languages)
@@ -236,7 +237,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     *Small device*
 
     ![Events Section on Small Display](wireframes/events-small-device.JPG)
-    
+
     \
     &nbsp;
 + The date and location are also shown with the added function of a link to the directions of the event via Google Maps. There is also a label added, and animation for extra information to the user that it is a link to follow.
@@ -249,6 +250,30 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ### Contact Section
 
++ The contact section allows the user to quickly send a message to the T4Tri club. it also has a map of the location of the club base.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/contact.JPG)
+    \
+    &nbsp;
+
++ The text fields are all required fields and will not alow the user to submit until they are completed, this includes a validation on the email to ensure it is in a valid format. There is also a hover effect on the submit button to give the user feedback that it is and active button.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/contact-email.JPG)
+    \
+    &nbsp;
+
++ On submission of the form, the user is bought to a page showing that their details were received.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/contact-received.JPG)
+    \
+    &nbsp;
+    
 ### Footer
 
 ## Features to be Implemented
