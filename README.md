@@ -273,8 +273,24 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     ![Contact Section](wireframes/contact-received.JPG)
     \
     &nbsp;
-    
+
 ### Footer
+
++ The  footer contains the social media links related to T4Tri and the copyright text. These social links all open in a new tab for ease of use to the user and also so they have an ability to easily come back to T4Tri's site.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/footer.JPG)
+    \
+    &nbsp;
+
++ There is also a hover effect over the links, again to improve user experiance.
+    \
+    &nbsp;
+
+    ![Contact Section](wireframes/footer-hover.JPG)
+    \
+    &nbsp;
 
 ## Features to be Implemented
 
