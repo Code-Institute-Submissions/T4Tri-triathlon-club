@@ -33,11 +33,14 @@ This site gives some information about the club, basic information about triathl
             * [Landing Page](#landing-page)
             * [About Section](#about-section)
             * [Events Section](#events-section)
+            * [Contact Section](#contact-section)
+            * [Footer](#footer)
         * [Features to be implemented](#features-to-be-implemented)
     * [Technologies used](#technologies-used)
         * [Languages](#languages)
         * [Tools and Libraries](#tools-and-libraries)
     * [Testing](#testing)
+        * [Bugs](#bugs)
     * [Deployment](#deployment)
     * [Credits](#credits)
 # UX
@@ -72,6 +75,13 @@ This site gives some information about the club, basic information about triathl
 * I expect all navigation links to work correctly.
 * I expect screen size not to effect the quality of the website.
 * I expect all information to be correct and accurate.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 ## Design Choices
 
 ### Fonts
@@ -108,6 +118,13 @@ I will be building my website with a mobile first mindset using the iPhone 5/SE 
 | medium      | => 768px   |
 | large       | => 992 px  |
 | x-large     | => 1200 px |
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 # Wireframes
 I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframes for my website. I initially created the mobile version and then the wireframes and then scalled it up for both tablet and desktop. Because a requirement is to give little but quality information to the user to make them want to engage with the club, a one page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
 
@@ -117,12 +134,16 @@ The wireframes are below:
 ### [Desktop Wireframe](wireframes/T4Tri_desktop.png "Desktop wireframe")
 ### [Tablet Wireframe](wireframes/T4Tri_tablet.png "Tablet wireframe")
 ### [Phone Wireframe](wireframes/T4Tri_phone.png "Phone wireframe")
-# Wireframes
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 # Features
 
 ## Existing Features
-
 
 ### Navigation Bar
 
@@ -161,9 +182,11 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     &nbsp;
 ![Nav bar on small devices expanded](wireframes/nav-bar-small-expanded.JPG)
 
-    \
-    &nbsp;
-
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 ### Landing Page
 
 + The landing page image
@@ -174,8 +197,11 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
     ![Landing Page](wireframes/landing-page.JPG)
 
-    \
-    &nbsp;
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 
 ### Welcome Section
@@ -193,8 +219,12 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     &nbsp;
 
     ![Welcome Button](wireframes/welcome-button.JPG)
-    \
-    &nbsp;
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 ### About Section
 
@@ -219,8 +249,12 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     *Phone and Tablet*
     
     ![About Section on Phone](wireframes/about-phone.JPG)
-    \
-    &nbsp;
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 ### Events Section
 
@@ -245,8 +279,12 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     &nbsp;
 
     ![Events Section Directions](wireframes/events-directions.JPG)
-    \
-    &nbsp;
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 ### Contact Section
 
@@ -271,8 +309,12 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     &nbsp;
 
     ![Contact Section](wireframes/contact-received.JPG)
-    \
-    &nbsp;
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 ### Footer
 
@@ -294,6 +336,12 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ## Features to be Implemented
 
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 # Technologies used
 
 ## Languages
@@ -313,13 +361,36 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
 * [Unsplash](https://unsplash.com/ "Unsplash")
-# Testing
 
-## Examples
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+# Testing
 
 ## Bugs
 
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 # Deployment
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 # Credits
 * [Mark Caron](https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793 "Marc Caron")
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
