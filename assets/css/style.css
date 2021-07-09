@@ -423,6 +423,7 @@ p {
     align-content: center;
     justify-content: space-evenly;
     position: relative;
+    padding: 2rem;
 }
 
 .events-card h3 {
@@ -436,6 +437,7 @@ p {
 .events-card p {
     color: var(--white);
     font-size: 1.5rem;
+    margin: auto;
 }
 
 .events-card a {
