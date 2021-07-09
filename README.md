@@ -196,6 +196,30 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ### About Section
 
++ The about section gives a brief, and attemped humerous, description of the diceplins of triathlon with the adition of a character showing the user what is involved, even if they do not want to read the descriptions. It is also responsive to suit the different screen sizes.
+    \
+    &nbsp;
+
+    *Desktop*
+
+    ![About Section on Desktop](wireframes/about.JPG)
+    \
+    &nbsp;
+
+
+    *Laptop*
+    
+    ![About Section on Tablet](wireframes/about-laptop.JPG)
+    \
+    &nbsp;
+
+    
+    *Phone and Tablet*
+    
+    ![About Section on Phone](wireframes/about-phone.JPG)
+    \
+    &nbsp;
+
 ### Events Section
 
 ### Contact Section
