@@ -688,12 +688,6 @@ p {
 
     /* 3.2.4 events section */
 
-    .events-card a {
-        height: 8rem;
-        width: 8rem;
-        right: 14rem;
-    }
-
     .events-icon {
         font-size: 4rem;
         left: 15%;
