@@ -428,6 +428,8 @@ p {
     color: var(--white);
     font-size: 2rem;
     margin: 0.25rem auto;
+    text-transform: uppercase;
+    font-weight: 900;
 }
 
 .events-card p {
@@ -518,6 +520,7 @@ p {
 
 #message {
     height: 16rem;
+    text-align: justify;
 }
 
 ::placeholder {
@@ -534,7 +537,7 @@ p {
 }
 
 .submit-button:hover {
-    color: var(--white);
+    background-color: var(--white);
 }
 
 #map {
