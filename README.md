@@ -40,7 +40,7 @@ This site gives some information about the club, basic information about triathl
         * [Languages](#languages)
         * [Tools and Libraries](#tools-and-libraries)
     * [Testing](#testing)
-        * [Bugs](#bugs)
+        * [Unfixed Bugs](#unfixed-bugs)
     * [Deployment](#deployment)
     * [Credits](#credits)
 # UX
@@ -370,7 +370,42 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 # Testing
 
-## Bugs
+I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little large blank spaces. It allows the user to navigate around easily and aslo make contact via the contact form or social media simply. It The content is simple and to the point and the site is not over crowded as to put the user off.
+\
+&nbsp;
+
+I have encountered several issues during testing. 
+ + I initially decided to create the site with a minimum width of 992px as my largest styling, however the site just didn't look right so added an x-large screen size.
+
+ + In my wireframes, I had designed to only have a 'Join Us' button on the larger screen sizes. While I was developing the site, this didn't make sence. There was such a long scroll with it being a one page site, I felt I needed to speed up the movement for someone who was instantly interested so included it on all screen sizes.
+
+ + On actual smaller devices, instead of on Chrome Developer, the main navigation menu did not show the 'Contact' link. I simply changed the styling of the links and the changed the ul to flex-start and all is now clearly visable.
+
+ + I was have issues with the navigation bar scrolling about 15px when I scrolled down on smaller devices whilst working on Chrome Developer. I lost a lot of time trying to figure out the issue, but when I tried the site on an acual device, the navigation bar stayed fixed as the code dictated. This was a bug in Chrome Developer and not with my site.
+
+ + The main navigation on smaller devices was initially set to 90vh, however on testing on a physical device, the user could see the site scrolling at the bottom if they were to slide up or down. This looked very poor and clumsy on the eye, so I adjusted it to 100vh to cover it up.
+
+ + I found that I was repeating alot of code in my style.css file in order to center items. I created a class to do this and then applied it whee needed.
+
+ + All my buttons were styled completly differently. I added an animation to all buttons so there is a continuity between them all.
+\
+&nbsp;
+
+## Unfixed Bugs
+
+The code when run through a validator shows no errors on the CSS. However for the HTML I have one error showing. This is because the contact form has a method of '#'. The form doesn't do anything as my learning has not covered this yet, so does not POST anywhere. When POST is used as a method it causes an error instead of going to my contact.html page. So until my learning progresses, I have left it as '#'.
+
+```html
+<form action="contact.html" method="#" id="contact-form" class="section-align">
+
+```
+
+* HTML validator [results](wireframes/html-validate.JPG "W3C HTML")
+* CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
+\
+&nbsp;
+
+My learning has also limited my use of the hamburger for smaller devices. It works nicely to open the menu up, but a tap of the hamburger again should close the menu down again. It does not do this and the link has to be selected to enable the user to exit out of it. From my research it seems that all the streamline methods are using JavaScript and I am yet to learn this.
 
 \
 &nbsp;
