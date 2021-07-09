@@ -636,22 +636,6 @@ p {
 /* 3.1 >=576px (Phone) */
 @media (min-width: 576px) {
 
-    .events-icon {
-        font-size: 3rem;
-        position: absolute;
-        left: 15%;
-        width: 5rem;
-        height: 5rem;
-    }
-
-    .events-card a {
-        height: 5rem;
-        width: 5rem;
-        font-size: 4rem;
-        position: absolute;
-        right: 15%;
-    }
-
     .hero-text {
         height: 8rem;
         width: 15rem;
