@@ -126,9 +126,6 @@ The wireframes are below:
 
 The navigation bar is fully responsive to allow for various screen sizes. It includes links to manover around the site easily and also the club logo which doubles as a link back to the home screen.
 
-\
-&nbsp;
-
 + Desktop (>=992px)
 \
 &nbsp;
@@ -142,7 +139,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     &nbsp;
     -   For the user to know that a link has been clicked there is also a visual aid of the text changing colour.
 
-    ![Nav bar on focus](wireframes/nav-bar-focus.JPG)
+    ![Navigation bar on focus](wireframes/nav-bar-focus.JPG)
     \
     &nbsp;
 
@@ -158,11 +155,11 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
     - When pressed, it open up the main menu with all the links available then.
 
-        \
+    \
     &nbsp;
 ![Nav bar on small devices expanded](wireframes/nav-bar-small-expanded.JPG)
 
-        \
+    \
     &nbsp;
 
 ### Landing Page
@@ -170,10 +167,14 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 + The landing page image
     - The image gives the user instant knowledge of what is involved in the club, and with added animation draws their eye to the site.
     - The text gives instant information to the user on what the club is. With the added animation of fading in slightly behind the image, it makes the user keep interest. 
-        \
+    \
     &nbsp;
 
     ![Landing Page](wireframes/landing-page.JPG)
+
+    \
+    &nbsp;
+
 
 ### Welcome Section
 
