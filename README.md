@@ -29,6 +29,8 @@ This site gives some information about the club, basic information about triathl
     * [Wireframes](#wireframes)
     * [Features](#features)
         * [Existing Features](#existing-features)
+            * [Navigation Bar](#navigation-bar)
+            * [Landing Page](#landing-page)
         * [Features to be implemented](#features-to-be-implemented)
     * [Technologies used](#technologies-used)
         * [Languages](#languages)
@@ -120,7 +122,7 @@ The wireframes are below:
 ## Existing Features
 
 
-### Navigation
+### Navigation Bar
 
 The navigation bar is fully responsive to allow for various screen sizes. It includes links to manover around the site easily and also the club logo which doubles as a link back to the home screen.
 
@@ -160,7 +162,18 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     &nbsp;
 ![Nav bar on small devices expanded](wireframes/nav-bar-small-expanded.JPG)
 
-### Hero Image
+        \
+    &nbsp;
+
+### Landing Page
+
++ The landing page image
+    - The image gives the user instant knowledge of what is involved in the club, and with added animation draws their eye to the site.
+    - The text gives instant information to the user on what the club is. With the added animation of fading in slightly behind the image, it makes the user keep interest. 
+        \
+    &nbsp;
+
+    ![Landing Page](wireframes/landing-page.JPG)
 
 ### Welcome Section
 
