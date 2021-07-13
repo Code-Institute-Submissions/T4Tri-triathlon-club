@@ -388,24 +388,20 @@ I have encountered several issues during testing.
  + I found that I was repeating alot of code in my style.css file in order to center items. I created a class to do this and then applied it whee needed.
 
  + All my buttons were styled completly differently. I added an animation to all buttons so there is a continuity between them all.
+
+ + When I was validating HTML code, I had one error showing. This was in the contact form where I had a method of '#'. I was under the understanding that POST method should have been used, but when I did, it caused an error instead of going to my contact.html page. After a while I tried using GET and it worked solving my validation problem. The results of my validation for HTML and CSS are below.
+
+    - HTML (index.html) validator [results](wireframes/html-validate.JPG "W3C HTML")
+    - HTML (contact.html) validator [results](wireframes/html-contact-validate.JPG "W3C HTML")
+    - CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
+\
+&nbsp;
 \
 &nbsp;
 
 ## Unfixed Bugs
 
-The code when run through a validator shows no errors on the CSS. However for the HTML I have one error showing. This is because the contact form has a method of '#'. The form doesn't do anything as my learning has not covered this yet, so does not POST anywhere. When POST is used as a method it causes an error instead of going to my contact.html page. So until my learning progresses, I have left it as '#'.
-
-```html
-<form action="contact.html" method="#" id="contact-form" class="section-align">
-
-```
-
-* HTML validator [results](wireframes/html-validate.JPG "W3C HTML")
-* CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
-\
-&nbsp;
-
-My learning has also limited my use of the hamburger for smaller devices. It works nicely to open the menu up, but a tap of the hamburger again should close the menu down again. It does not do this and the link has to be selected to enable the user to exit out of it. From my research it seems that all the streamline methods are using JavaScript and I am yet to learn this.
+My learning has limited my use of the hamburger for smaller devices. It works nicely to open the menu up, but a tap of the hamburger again should close the menu down again. It does not do this and the link has to be selected to enable the user to exit out of it. From my research it seems that all the streamline methods are using JavaScript and I am yet to learn this.
 
 \
 &nbsp;
