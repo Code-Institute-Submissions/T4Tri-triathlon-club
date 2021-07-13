@@ -437,7 +437,18 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 &nbsp;
 
 # Credits
+
+For code insperation, help and advice,
+* [Simen Daehlin](https://github.com/Eventyret "Simen Daehlin")
 * [Mark Caron](https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793 "Marc Caron")
+\
+&nbsp;
+
+For content and style insperation,
+* [3D Triathlon Club](https://www.3dtri.ie/ "3D Triathlon Club")
+* [Limerick Triathlon Club](https://limericktriathlon.com/ "Limerick Triathlon Club")
+* [Portmarnock Triathlon Club](https://www.portmarnocktriathlonclub.com/ "Portmarnock Triathlon Club")
+
 
 \
 &nbsp;
