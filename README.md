@@ -412,6 +412,7 @@ I have encountered several issues during testing.
 
 My learning has limited my use of the hamburger for smaller devices. It works nicely to open the menu up, but a tap of the hamburger again should close the menu down again. It does not do this and the link has to be selected to enable the user to exit out of it. From my research it seems that all the streamline methods are using JavaScript and I am yet to learn this.
 
+
 \
 &nbsp;
 [Back to Top](#table-of-contents)
@@ -419,6 +420,15 @@ My learning has limited my use of the hamburger for smaller devices. It works ni
 &nbsp;
 
 # Deployment
+
+Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+
++ Navigate to the repository on github and click 'Settings'.
++ Then select 'Pages' on the side navigation.
++ Select the 'None' dropdown, and then click 'master'.
++ Click on the 'Save' button.
++ Now the website is now live on https://sam-timmins.github.io/T4Tri-triathlon-club/
++ If any changes are required they can be done, Commited and pushed to GitHub and the changes will be updated.
 
 \
 &nbsp;
