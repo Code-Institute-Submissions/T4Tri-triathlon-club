@@ -361,6 +361,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
 * [Unsplash](https://unsplash.com/ "Unsplash")
+* [Box Shadow Generator](https://html-css-js.com/css/generator/box-shadow/ "html-css-js.com")
 
 \
 &nbsp;
