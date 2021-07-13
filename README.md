@@ -1,13 +1,13 @@
 ![Logo](wireframes/logo.JPG)
 
-# T4Tri Triathalon Club
+# T4Tri Triathlon Club
 
 
 
 # Goal for this Project
 Welcome to T4Tri Triathalon Club. This club provides an outlet for all age groups from 16 to 116 to get involved and give trathalons a go. 
 
-This site gives some information about the club, basic information about triathlons and club events to capture the eye of a potential member. It also give the ability to make contact with the club easily through social media or directly via the contact form.
+This site gives some information about the club, basic information about triathlons and club events to capture the eye of a potential member. It also gives the ability to make contact with the club easily through social media or directly via the contact form.
 
 
 
@@ -64,16 +64,16 @@ This site gives some information about the club, basic information about triathl
 * Increase the number of members.
 * Increase rankings on search engines.
 ### Requirements
-* Easy to navigate on varius screen sizes.
+* Easy to navigate on various screen sizes.
 * Clear information on the services provided.
 * Keep the user interested with small bits of information to make them want to engage with the club.
 * Simple methods of contacting the club.
-* Visually inviting so users don't leave.
+* Visually inviting so users do not leave.
 ### Expectations
 * I expect to know if a form has been submitted properly and if items are not filled in, to be prompted.
 * I expect all links to social media sites to be opened in a new tab.
 * I expect all navigation links to work correctly.
-* I expect screen size not to effect the quality of the website.
+* I expect screen size not to affect the quality of the website.
 * I expect all information to be correct and accurate.
 
 \
@@ -106,7 +106,7 @@ I will explain the uses of the varius colours below, starting from top to bottom
  * #FFFDDF - This colour will be used as a background colour for sections and as a text colour.
  * #8E689B - This colour will be used on the contact form for added styling.
  * #92579F - This colour will be used as a backgroung behind any images used.
- * #121A18 - This colour will be used as a text colour and also the navigation and footer background colour.
+ * #121A18 - This colour will be used as a text colour also the navigation and footer background colour.
 
 ### Structure
 I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are from [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap").
@@ -116,8 +116,8 @@ I will be building my website with a mobile first mindset using the iPhone 5/SE 
 | x-small     | <576px     |
 | small       | => 576px   |
 | medium      | => 768px   |
-| large       | => 992 px  |
-| x-large     | => 1200 px |
+| large       | => 992px   |
+| x-large     | => 1200px  |
 
 \
 &nbsp;
@@ -126,7 +126,7 @@ I will be building my website with a mobile first mindset using the iPhone 5/SE 
 &nbsp;
 
 # Wireframes
-I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframes for my website. I initially created the mobile version and then the wireframes and then scalled it up for both tablet and desktop. Because a requirement is to give little but quality information to the user to make them want to engage with the club, a one page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
+I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframes for my website. I initially created the mobile version and then the wireframes and then scalled it up for both tablet and desktop. Because a requirement is to give little but quality information to the user to make them want to engage with the club, a one-page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
 
 The wireframes are below:
 
@@ -147,7 +147,7 @@ The wireframes are below:
 
 ### Navigation Bar
 
-The navigation bar is fully responsive to allow for various screen sizes. It includes links to manover around the site easily and also the club logo which doubles as a link back to the home screen.
+The navigation bar is fully responsive to allow for various screen sizes. It includes links to manover around the site easily and the club logo which doubles as a link back to the home screen.
 
 + Desktop (>=992px)
 \
@@ -176,7 +176,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
     &nbsp;
 ![Nav bar on small devices](wireframes/nav-bar-small.JPG)
 
-    - When pressed, it open up the main menu with all the links available then.
+    - When pressed, it opens up the main menu with all the links available then.
 
     \
     &nbsp;
@@ -206,7 +206,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ### Welcome Section
 
-+ The welcome section gives a brief introduction to the user on the what T4Tri is and who is welcome.
++ The welcome section gives a brief introduction to the user on what T4Tri is and who is welcome.
     \
     &nbsp;
 
@@ -258,7 +258,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ### Events Section
 
-+ This is where the most upcoming club events are shown. It includes an icon to quickly show if it is a social or a race event to the user. Also on the larger screen sizes it includes some images to break up the screen.
++ This is where the most upcoming club events are shown. It includes an icon to quickly show if it is a social or a race event to the user. Also, on the larger screen sizes it includes some images to break up the screen.
     \
     &nbsp;
 
@@ -318,7 +318,7 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ### Footer
 
-+ The  footer contains the social media links related to T4Tri and the copyright text. These social links all open in a new tab for ease of use to the user and also so they have an ability to easily come back to T4Tri's site.
++ The footer contains the social media links related to T4Tri and the copyright text. These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to T4Tri's site.
     \
     &nbsp;
 
@@ -370,18 +370,18 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 # Testing
 
-I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little large blank spaces. It allows the user to navigate around easily and aslo make contact via the contact form or social media simply. It The content is simple and to the point and the site is not over crowded as to put the user off.
+I feel that the site has hit the goals required by all parties. The site responds nicely to all different screen sizes, the images look clean and sharp on all device sizes with very little, large blank spaces. It allows the user to navigate around easily and aslo make contact via the contact form or social media simply. It The content is simple and to the point and the site is not overcrowded as to put the user off.
 \
 &nbsp;
 
 I have encountered several issues during testing. 
- + I initially decided to create the site with a minimum width of 992px as my largest styling, however the site just didn't look right so added an x-large screen size.
+ + I initially decided to create the site with a minimum width of 992px as my largest styling, however the site just did not look right so added an x-large screen size.
 
- + In my wireframes, I had designed to only have a 'Join Us' button on the larger screen sizes. While I was developing the site, this didn't make sence. There was such a long scroll with it being a one page site, I felt I needed to speed up the movement for someone who was instantly interested so included it on all screen sizes.
+ + In my wireframes, I had designed to only have a 'Join Us' button on the larger screen sizes. While I was developing the site, this did not make sence. There was such a long scroll with it being a one-page site, I felt I needed to speed up the movement for someone who was instantly interested so included it on all screen sizes.
 
  + On actual smaller devices, instead of on Chrome Developer, the main navigation menu did not show the 'Contact' link. I simply changed the styling of the links and the changed the ul to flex-start and all is now clearly visable.
 
- + I was have issues with the navigation bar scrolling about 15px when I scrolled down on smaller devices whilst working on Chrome Developer. I lost a lot of time trying to figure out the issue, but when I tried the site on an acual device, the navigation bar stayed fixed as the code dictated. This was a bug in Chrome Developer and not with my site.
+ + I was having issues with the navigation bar scrolling about 15px when I scrolled down on smaller devices whilst working on Chrome Developer. I lost a lot of time trying to figure out the issue, but when I tried the site on an acual device, the navigation bar stayed fixed as the code dictated. This was a bug in Chrome Developer and not with my site.
 
  + The main navigation on smaller devices was initially set to 90vh, however on testing on a physical device, the user could see the site scrolling at the bottom if they were to slide up or down. This looked very poor and clumsy on the eye, so I adjusted it to 100vh to cover it up.
 
@@ -397,7 +397,7 @@ I have encountered several issues during testing.
 \
 &nbsp;
 
- + On testing on an a physical mobile device, I thought that the google search bar looked odd, being white and my header a dark colour. For user experiance and to make it look cleaner and more fluid, I changed the colour to match using the following code.
+ + On testing on a physical mobile device, I thought that the google search bar looked odd, being white and my header a dark colour. For user experiance and to make it look cleaner and more fluid, I changed the colour to match using the following code.
 
  ```
 
@@ -410,7 +410,7 @@ I have encountered several issues during testing.
 
 ## Unfixed Bugs
 
-My learning has limited my use of the hamburger for smaller devices. It works nicely to open the menu up, but a tap of the hamburger again should close the menu down again. It does not do this and the link has to be selected to enable the user to exit out of it. From my research it seems that all the streamline methods are using JavaScript and I am yet to learn this.
+My learning has limited my use of the hamburger for smaller devices. It works nicely to open the menu up, but a tap of the hamburger again should close the menu down again. It does not do this, and the link has to be selected to enable the user to exit out of it. From my research it seems that all the streamline methods are using JavaScript and I am yet to learn this.
 
 
 \
@@ -428,7 +428,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 + Select the 'None' dropdown, and then click 'master'.
 + Click on the 'Save' button.
 + Now the website is now live on https://sam-timmins.github.io/T4Tri-triathlon-club/
-+ If any changes are required they can be done, Commited and pushed to GitHub and the changes will be updated.
++ If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
 
 \
 &nbsp;
