@@ -396,6 +396,15 @@ I have encountered several issues during testing.
     - CSS validator [results](wireframes/css-validate.JPG "W3C CSS")
 \
 &nbsp;
+
+ + On testing on an a physical mobile device, I thought that the google search bar looked odd, being white and my header a dark colour. For user experiance and to make it look cleaner and more fluid, I changed the colour to match using the following code.
+
+ ```
+
+ <meta name="theme-color" content="#121A18">
+
+
+ ```
 \
 &nbsp;
 
