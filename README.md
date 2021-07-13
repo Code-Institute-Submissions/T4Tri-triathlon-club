@@ -405,6 +405,8 @@ I have encountered several issues during testing.
 
 
  ```
+
+ + When going through my UX section, to ensure that all my goals were met for the project, I noticed that I had missed one, 'As a user, I want to know that the club is well established'. I adjusted the text in the welcome section to suit.
 \
 &nbsp;
 
