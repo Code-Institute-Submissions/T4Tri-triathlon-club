@@ -46,11 +46,11 @@ This site gives some information about the club, basic information about triathl
 # UX
 
 ## User Goals
-* Visually appealing, including images.
-* Easily navigated around.
-* Quality and valuable content.
-* Easily found contact details.
-* Form to directly contact the club.
+* [X] Visually appealing, including images.
+* [X] Easily navigated around.
+* [X] Quality and valuable content.
+* [X] Easily found contact details.
+* [X] Form to directly contact the club.
 ## User Stories
 * As a user, I want to know that the club is well established.
 * As a user, I want the website to give me information about what is involved in trathalon.
