@@ -336,6 +336,14 @@ The navigation bar is fully responsive to allow for various screen sizes. It inc
 
 ## Features to be Implemented
 
++ Contact form to send message to T4Tri instead of leading to a dummy page.
+
++ Links to club sponsors websites.
+
++ Add a shop for club clothing to be purchased.
+
++ Add a library of structured workouts for all activities.
+
 \
 &nbsp;
 [Back to Top](#table-of-contents)
